@@ -1,0 +1,1030 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+			<meta charset="utf-8">
+	<title>Wirtualna Polska - Wszystko co wa¿ne - www.wp.pl</title>
+	<meta name="Expires" content="0">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta name="author" content="Wirtualna Polska">
+	<meta name="keywords" content="wp.pl, WP, Wirtualna Polska, Pogoda, Wiadomoœci, Newsy, Informacje, Sport, Finanse, Rozrywka, Program, Telewizja, #dziejesiewpolsce">
+	<meta name="description" content="Nowoczesne medium, porz¹dkuje œwiat i dostarcza anga¿uj¹ce informacje, rozrywkê i us³ugi w czasie rzeczywistym. Przewodnik Polaków w wirtualnym œwiecie.">
+	<meta name="robots" content="index,follow">
+	<meta property="og:title" content="Wirtualna Polska - Wszystko co wa¿ne - www.wp.pl"/>
+	<meta property="og:description" content="Nowoczesne medium, porz¹dkuje œwiat i dostarcza anga¿uj¹ce informacje, rozrywkê i us³ugi w czasie rzeczywistym." />
+	<meta property="og:image" content="http://x.wpimg.pl/i/ivar/layout/201201/wpogimage.png">
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta http-equiv="X-UA-Compatible" content="IE=10">
+
+	<link rel="canonical" href="http://www.wp.pl/" />
+	<link href="https://plus.google.com/105528572931700558344/" rel="publisher">
+		<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="favicon-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+	<link rel="dns-prefetch" href="http://dot.wp.pl" />
+	<link rel="dns-prefetch" href="http://adb.wp.pl" />
+	<link rel="dns-prefetch" href="http://dva.wp.pl" />
+	<link rel="dns-prefetch" href="http://adv.wp.pl" />
+	<link rel="dns-prefetch" href="http://erk.www.wp.pl" />
+	<link rel="dns-prefetch" href="http://rek.www.wp.pl" />
+	<link rel="dns-prefetch" href="http://x.wpimg.pl" />
+	<link rel="dns-prefetch" href="http://y.wpimg.pl" />
+	<link rel="dns-prefetch" href="http://www.google.com" />
+	<link rel="dns-prefetch" href="http://www.facebook.com" />	
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="mstile-144x144.png">
+	<link href="/s-nsg.css?v=147" type="text/css" rel="stylesheet" media="all" />
+	<script>
+		var gfkSstConf = {
+			'url': '//config.sensic.net/pl1-sst-w.js',
+			'media' : 'wpPL',
+			'content' : 'sgwp_d'
+		};
+		var gfkSst = gfkSstConf;
+		//osadzenie - nie zmienialne
+		(function (w, d, c, s, id) {
+			if (d.getElementById(id)) {return;}
+			w[id] = w[id] || function () {
+				if ('undefined' == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+				} else {gfkSstApi.impression(arguments[0]);}
+			};
+			w[id].queue = w[id].queue || [];
+			var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+			tag.id = id; tag.async = false; tag.src = '//' + c.url;
+			el.parentNode.insertBefore(tag, el);
+		})(window, document, gfkSstConf, 'script', 'gfkSst');
+	</script>
+
+	<script type="text/javascript">
+			<!--//--><![CDATA[//><!--
+			var wp_was_reloaded = 0;
+			var wp_was_reloaded_ck = document.cookie.toLowerCase().match(/was-auto-reloaded=(\d+)/);
+			if (wp_was_reloaded_ck && wp_was_reloaded_ck.length === 2) {
+				wp_was_reloaded = parseInt(wp_was_reloaded_ck[1], 10);
+			}
+		
+			if (!wp_was_reloaded) {
+				var pp_gemius_identifier = 'coWacc7R.xHk.xzhRC.LgpQJ38OGWzuyOAxvi8UATAr.s7';
+				function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+				gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+				(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+				gt.setAttribute('defer','defer');
+					gt.src=l+'://x.wpimg.pl/i/ivar/layout/201201/xgemius.js'; s.parentNode.insertBefore(gt,s);
+				} catch (e) {}})(document,'script');
+			}	var wp_sn = 'sg';
+	var wp_dot_addparams = {svid:"89c3f25175307983a185d", "ABNSG_i48_adv": ""};
+	var wp_gemius_send = false;
+	var desaturateMode = false;
+	var rekid = "232303";
+	var wp_rekid = "232303";
+	var wp_dot_type = 'click';
+	var wp_fba = '1444575093.907';
+	// ]]> -->
+	</script>
+	<script src="http://x.wpimg.pl/i/ivar/layout/201201/wpjslib_103.js?v=184" type="text/javascript" charset="utf-8"></script>
+	<!--[if lt IE 9]><script src="http://x.wpimg.pl/i/ivar/layout/201201/html5.js"></script><![endif]-->
+	<script type="text/javascript">
+	<!-- // <![CDATA[
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];
+		
+			a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-5826846-34', 'auto');
+		ga('send', 'pageview');
+		
+	var ajaxEnabled = true;
+	var isDynamic = true;
+	var isHP = true;
+	window.habahaba="emxinsxcitexvarxbxixsampxstrong";
+	// ]]> -->
+	</script>
+
+<style>
+	[id^="adv"] { text-align: center; margin-left: auto; margin-right: auto; } 
+	[id^="adv"] > div {
+		display: inline-block;
+	}
+</style>
+	
+	</head>
+	<body>		
+		<h1>Strona G³ówna Wirtualnej Polski</h1>
+		
+		<aside class="mail-info">
+			<div class="mail-info--content">
+				<p>Prawdopodobnie dawno nie by³o Ciê w Wirtualnej Polsce. Zobacz jak siê zmieni³a!</p>
+				<span class="mail-info--close"></span>
+				<script>
+					$('.mail-info--close').click(function () {
+						$('.mail-info').slideUp();
+					});
+					(function($){var getUrlParam=function(paramName){var regEx=new RegExp("[?&]"+paramName+"=([^&#]*)"),currSearchUrl=document.location.search,resultsArray=currSearchUrl.match(regEx);if(resultsArray){return resultsArray[1]}return false},wzp=getUrlParam("wzp");if (wzp=='wp'){$('.mail-info--content p').prepend('Wylogowano z Poczty WP. ');$('aside.mail-info').show();} else if (wzp=='o2') {$('.mail-info--content p').prepend('Wylogowano z Poczty o2. ');$('aside.mail-info').show();};return}(WP.$));
+				</script>				
+			</div>
+		</aside>
+				
+			<header id="Naglowek" class="fbLikebox logo-20lat" data-st-area="Naglowek-duzy">
+	<div class="NaglowekIn">
+		<div class="NaglowekCnt">
+
+			<div class="header--logo">
+				<a href="http://www.wp.pl/?id=20lat" title="Strona G³ówna WP.PL">
+				<img src="http://y.wpimg.pl/i/ivar/N/201503/1426867005_a.gif" alt="Strona G³ówna WP.PL" />
+			</a>			</div>
+
+			<div class="header--social">
+				<div class="fb-like" data-href="https://www.facebook.com/WirtualnaPolska" data-width="126" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+			</div>
+
+			<ul class="header--sites header--sites-left">
+				<li class="wiadomosci"><a href="http://wiadomosci.wp.pl" title="Wiadomoœci">Wiadomoœci</a></li>
+				<li class="finanse"><a href="http://money.pl" title="Finanse">Finanse</a></li>
+				<li class="sport"><a href="http://sport.wp.pl" title="Sport">Sport</a></li>
+				<li class="inne"><a href="#" title="Inne serwisy">Inne</a></li>
+			</ul>
+
+			<div class="header--search">
+				<form action="http://www.wp.pl/s/szukaj.html" method="get" class="szukajForm" data-st="ST-bxHeader-search" onsubmit="try{if(!window.searchEventDotSend){WP.stat.eventDot('ST-bxHeader-search');}window.searchEventDotSend=true;}catch(e){}">
+					<input type="hidden" name="form" value="01">
+					<input type="text" value="" name="szukaj1" id="szukaj1" class="header--search-text">
+					<input type="submit" value="Szukaj" class="header--search-submit">
+				</form>
+			</div>
+
+			<ul class="header--sites header--sites-right">
+				<li class="poczta"><a href="http://poczta.wp.pl" title="Poczta">Poczta</a></li>
+				<li class="programtv"><a href="http://tv.wp.pl" title="Program TV">Program TV</a></li>
+				<li class="czaty"><a href="http://czat.wp.pl" title="Czaty">Czaty</a></li>
+				<li class="gry"><a href="http://gry.wp.pl/mmo.html" title="Gry">Gry</a></li>
+				<li class="praca"><a href="http://praca.wp.pl?utm_source=SG_wp.pl&utm_medium=wp.pl&utm_campaign=ikona_SG" title="Praca">Praca</a></li>
+				<li class="aukcje"><a href="http://domodi.pl/odziez/odziez-damska?utm_source=SG_WP&utm_medium=desktop&utm_campaign=ikona">Domodi</a></li>
+			</ul>
+
+		</div>
+		<section class="expandBar" data-st-area="Naglowek-expand">
+			<div class="barIn">
+				<div class="gradient"></div>
+				<ul>
+					<li>
+						<a href="http://domodi.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>DOMODI &raquo;</strong>
+								zakupy modowe
+							</span>
+						</a>
+						<a href="http://dot.wp.pl/redir?SN=dpp&url=http%3A%2F%2Fpizza.wp.pl%3Fsgwp" target="_blank">
+							<span>
+								<strong>Zamów jedzenie!</strong>
+								2500 restauracji
+							</span>
+						</a>
+						<a href="http://www.homebook.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>HOMEBOOK &raquo;</strong>
+								urz¹dŸ dom
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://videostar.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>VIDEOSTAR &raquo;</strong>
+								ogl¹daj live TV
+							</span>
+						</a>
+						<a href="http://www.favore.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>Favore.pl &raquo;</strong>
+								znajdŸ firmê<em class="wide"> lub eksperta</em>
+							</span>
+						</a>
+					</li>
+					<li>
+						<a href="http://direct.money.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>Direct Money.pl &raquo;</strong>
+								konta, kredyty i ubezp<em class="wide">ieczenia</em><em class="narrow">.</em>
+							</span>
+						</a>
+						<a href="http://praca.money.pl/?utm_source=serwisy_WP&utm_medium=wp.pl&utm_campaign=nformatsg" target="_blank">
+							<span>
+								<strong>Praca<em class="wide"> - szukaj</em> z Money.pl &raquo;</strong>
+								najwiêcej ofert na rynku
+							</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</section>
+	</div>
+	<div class="ListaSerwisowDuza" data-st-area="ListaSerwisow">
+		<div class="ListaSerwisowIn"></div>
+	</div>
+	</header>
+
+	<script>
+
+	window.expandBar=(function(){'use strict';var expandId,collapseId,header='#Naglowek',headerIn='#Naglowek .NaglowekIn',bar='.expandBar',closeTime=250,shortTime=500,longTime=500,blockExpandBar=false;function setCookieExpandBar(time){var expires=new Date();expires.setTime(expires.getTime()+(24*60*60*1000));document.cookie='expandBar='+time+';path=/;expires='+expires.toUTCString();}
+	setCookieExpandBar(shortTime);function getCookieExpandBar(){var keyValue=document.cookie.match('(^|;) ?expandBar=([^;]*)(;|$)');return keyValue?keyValue[2]:null;}
+	function expanding(time){expandId=setTimeout(function(){$(bar).slideDown({duration:200,complete:function(){WP.stat.eventShow('srv='+window.wp_sn+'&action=expandinfo&par='+escape('expand=expand'));}});},time);}
+	function folding(time){collapseId=setTimeout(function(){$(bar).slideUp({duration:200});},time);}
+	$(headerIn).mouseenter(function(){if(!($(bar).is(':visible'))&&!blockExpandBar){var cookie=parseInt(getCookieExpandBar(),10);if(cookie===shortTime){expanding(shortTime);}else{expanding(longTime);}}});$(headerIn).mouseleave(function(){clearTimeout(expandId);setCookieExpandBar(longTime);folding(closeTime);});$(headerIn).click(function(){clearTimeout(expandId);});return{block:function(on){blockExpandBar=on;}};}());
+    window.expandBar.block(true);
+
+	</script>
+
+		
+
+				<div class="PopularneTematy" data-st-area="PopularneTematy">
+			<div class="cnt">
+				<header class="naglowekBoksu"><span class="tytul">Popularne tematy</span> <span class="PopularneTematyZamknij">zamknij</span></header>
+				<ul>
+							<li>
+								<h3>WIADOMOŒCI</h3>
+						<ul>
+								<li><a href="http://wiadomosci.wp.pl/query,donald%20tusk,szukaj.html">Donald Tusk</a></li>
+								<li><a href="http://wiadomosci.wp.pl/query,jaros%B3aw%20kaczy%F1ski,szukaj.html">Jaros³aw Kaczyñski</a></li>
+								<li><a href="http://wiadomosci.wp.pl/query,janusz%20palikot,szukaj.html">Janusz Palikot</a></li>
+								<li><a href="http://wiadomosci.wp.pl/query,w%B3adimir%20putin,szukaj.html">W³adimir Putin</a></li>
+								<li><a href="http://wiadomosci.wp.pl/kat,140394,title,Wybory-prezydenckie-w-2015-r,raport.html">Wybory prezydenckie 2015</a></li>
+								<li><a href="http://odkrywcy.pl/gid,12353417,title,Przerazajace-katastrofy-ekologiczne,galeriazdjecie.html">Katastrofy ekologiczne</a></li>
+								<li><a href="http://kultura.wp.pl/wydarzenia.html">Wydarzenia kulturalne</a></li>
+								<h3>SPORT</h3>
+						<ul>
+								<li><a href="http://ekstraklasa.wp.pl/kat,98810,kategoria.html">Œl¹sk Wroc³aw - najnowsze informacje</a></li>
+								<li><a href="http://ekstraklasa.wp.pl/kat,32296,kategoria.html">Górnik Zabrze - najnowsze informacje</a></li>
+								<li><a href="http://ekstraklasa.wp.pl/kat,97434,kategoria.html">Lechia Gdañsk - najnowsze wiadomoœci</a></li>
+								<li><a href="http://sport.wp.pl/query,robert%20kubica,tag.html">Robert Kubica</a></li>
+								<li><a href="http://sport.wp.pl/query,mariusz%20pudzianowski,tag.html">Pudzian</a></li>
+								<li><a href="http://sport.wp.pl/query,robert%20lewandowski,tag.html">Robert Lewandowski</a></li>
+								<li><a href="http://sport.wp.pl/query,ksw,tag.html">KSW</a></li>
+								<li><a href="http://sport.wp.pl/kat,1754,name,liga-europejska,kategoria.html">Liga Europejska</a></li>
+								<li><a href="http://sport.wp.pl/tag.html?query=liga+mistrz%C3%B3w">Liga Mistrzów</a></li>
+								<li><a href="http://sport.wp.pl/kat,1809,title,NBA,kategoria.html">NBA</a></li>
+							</li>
+							<li>
+								<h3>TECHNOLOGIE</h3>
+						<ul>
+								<li><a href="http://tech.wp.pl/kat,1009781,title,Oto-nowy-krol-Samsung-Galaxy-S-III-Pierwsze-wrazenia,wid,14458618,wiadomosc.html">Samsung Galaxy S III</a></li>
+								<li><a href="http://tech.wp.pl/name,Samsung-Galaxy-S5,phoneId,15788,telefon.html">Samsung Galaxy S5</a></li>
+								<h3>BIZNES I PRACA</h3>
+						<ul>
+								<li><a href="http://direct.money.pl/kredytygotowkowe/">Oferty kredytów gotówkowych</a></li>
+								<li><a href="http://www.money.pl/pieniadze/nbp/srednie/">Aktualny kurs walut</a></li>
+								<li><a href="http://direct.money.pl/kredytymieszkaniowe/">Oferty kredytów hipotecznych</a></li>
+								<li><a href="http://praca.money.pl/praca_za_granica/">Praca za granic¹</a></li>
+								<li><a href="http://praca.money.pl/praca-na-wakacje/">Praca na wakacje</a></li>
+								<li><a href="http://podatki.wp.pl/skaleistawki.html">Aktualne stawki podatkowe</a></li>
+								<li><a href="http://praca.money.pl/">Praca</a></li>
+								<li><a href="http://www.money.pl/sekcja/lokaty-po-bankach/">Ranking Lokat Wrzesieñ 2015</a></li>
+								<li><a href="http://direct.money.pl/">Produkty finansowe</a></li>
+								<li><a href="http://www.money2money.com.pl/">Program partnerski m2m</a></li>
+							</li>
+							<li>
+								<h3>STYL ¯YCIA</h3>
+						<ul>
+								<li><a href="http://rtvagd.wp.pl/kat,1032165,title,Thermomix-Kohersen-czy-Kenwood-Chef-Porownanie-drogich-robotow-kuchennych,wid,15436860,wiadomosc.html">Thermonix, Kohersen czy Kenwood</a></li>
+								<li><a href="http://horoskop.wp.pl/">Horoskop</a></li>
+								<li><a href="http://rtvagd.wp.pl/kat,1032165,title,Jaki-wybrac-i-kupic-grill-elektryczny,wid,14533164,wiadomosc.html">Jaki grill elektryczny wybraæ?</a></li>
+								<li><a href="http://kodyrabatowe.wp.pl">Kody rabatowe</a></li>
+								<li><a href="http://dzieci.pl/kalendarz-ciazy.html">Kalendarz ci¹¿y</a></li>
+								<li><a href="http://dzieci.pl/kat,1024253,title,Szczepionka-na-pneumokoki-szczepic-czy-nie-szczepic,wid,11861048,wiadomosc.html">Szczepionka na pneumokoki</a></li>
+								<li><a href="http://domodi.pl/">Domodi.pl</a></li>
+								<li><a href="http://www.homebook.pl">homebook.pl</a></li>
+								<li><a href="http://www.pudelek.pl">Plotki na Pudelku</a></li>
+								<li><a href="http://torebka.kafeteria.pl/produkt/garnier-antyperspirant-garnier-neo-22212">Antyperspirant Garnier Neo</a></li>
+								<h3>ROZRYWKA</h3>
+						<ul>
+								<li><a href="http://aleseriale.pl/sid,29905,title,Przyjaciolki,serial.html">Przyjació³ki serial</a></li>
+								<li><a href="http://www.imperiumstylu.wp.pl">Imperium Stylu - darmowa gra o modzie</a></li>
+							</li>
+						</ul>
+			</div>
+		</div>
+		
+	<script type="text/javascript">
+	/*<![CDATA[*/
+window.rehyajo="tzuwrljqdw"; window.ojayher="egcfxjkcnn"; var PWAd=document;var PWA_Itxt=false;var PWAr=Math.round(Math.random()*1E17);if(navigator.product=="Gecko"){window.onunload=function(){return true;}}function PWAjel(en,ec){    return true;}PWAd.write('<'+'img src="http://rek.www.wp.pl/rgr.html?PWAr='+PWAr+'" width="1" height="1" border="0" alt="" style="position:absolute;">');var PWAgd=PWAd.location.href;function PB(PWAk){}function JB(PWAk){return false;}function NJB(PWAk){return JB(PWAk);}function PWAgchuid(){return '&gchi=38506&goli=20204';}function PWAgs(){    var s=screen;    return "&PWAsw="+s.width+"&PWAsh="+s.height;}function PWAcs(){var PWAcsa=PWAd.cookie.split('; ');var PWAcss=''; for(var PWAi=0;PWAi<PWAcsa.length;PWAi++){if(PWAcsa[PWAi].indexOf('reksticket=')!=-1){PWAcss=PWAcss+'&'+PWAcsa[PWAi]; }}return PWAcss; }function PWAss(dn,st){PWAd.getElementById(dn).style.display=st;}function PWAge(en){return PWAd.getElementById(en);}    function PWAgPH(){        var PWAhtml;        if(PWAgd.indexOf('?') > 0){            PWAhtml=PWAgd.substr(7, PWAgd.indexOf('?') - 7);        }else{            PWAhtml=PWAgd.substr(7);        }        PWAhtml=PWAhtml.replace("#","HSH");        return '&phtml=' + PWAhtml;    }function PWAgPI(){if(this.rekid!=null){return rekid;}else{    return 232303;}}function PWAgQ(){var PWAquery;if(PWAgd.indexOf("?")>0){PWAquery=PWAgd.substr(PWAgd.indexOf("?")+1);}else{return "";}var PWAqarray=PWAquery.split("&");PWAquery="";for(var PWAi=0;PWAi<PWAqarray.length;PWAi++){if(PWAqarray[PWAi].indexOf("ticket=")==-1  && PWAqarray[PWAi].indexOf("<")==-1){PWAquery=PWAquery+"&"+PWAqarray[PWAi];}}return PWAquery;}function PWAgUI(){if(this.login!=null){return '&login='+login;}else{return '';}}function PWAgUP(){if(this.advpref!=null){return '&advpref='+advpref;}else{return '';}}function PWAbn(){var bn="";var nua=navigator.userAgent;if(nua.match('MSIE')) bn="ie";if(nua.match('Firefox')) bn="firefox";if(nua.match('Chrome')) bn="chrome";if(nua.match('Opera')) bn="opera";if(nua.match('iPod')) bn="ipod";if(nua.match('iPhone')) bn="iphone";if(nua.match('iPad')) bn="ipad";if(nua.match('Jakarta')) bn="bot";return "&PWAbn="+bn;}function PWAref(){var ref=document.referrer.replace(/https*:\/\//, '');    return encodeURIComponent(ref) || 'unknown';}function NPB(PWAk,PWAd){if((PWAk=='001')){PB('onload',PWAd);}if((PWAk=='002')){PB('baner',PWAd);}if((PWAk=='003')){PB('billboard',PWAd);}if((PWAk=='004')){PB('box',PWAd);}if((PWAk=='005')){PB('srodtekst',PWAd);}if((PWAk=='006')){PB('banerdol',PWAd);PWAko();}if((PWAk=='007')){PB('skyscraper',PWAd);}if((PWAk=='008')){PB('pop',PWAd);}if((PWAk=='009')){PB('toplayer',PWAd);}if((PWAk=='010')){PB('extra10',PWAd);}if((PWAk=='011')){PB('extra11',PWAd);}if((PWAk=='012')){PB('extra12',PWAd);}if((PWAk=='013')){PB('extra13',PWAd);}if((PWAk=='014')){PB('extra14',PWAd);}if((PWAk=='015')){PB('extra15',PWAd);}if((PWAk=='016')){PB('extra16',PWAd);}if((PWAk=='017')){PB('extra17',PWAd);}if((PWAk=='018')){PB('extra18',PWAd);}if((PWAk=='019')){PB('extra19',PWAd);}if((PWAk=='020')){PB('extra20',PWAd);}if((PWAk=='021')){PB('extra21',PWAd);}if((PWAk=='022')){PB('extra22',PWAd);}if((PWAk=='023')){PB('extra23',PWAd);}if((PWAk=='024')){PB('extra24',PWAd);}if((PWAk=='025')){PB('extra25',PWAd);}if((PWAk=='026')){PB('extra26',PWAd);}if((PWAk=='027')){PB('extra27',PWAd);}if((PWAk=='028')){PB('extra28',PWAd);}if((PWAk=='029')){PB('extra29',PWAd);}if((PWAk=='030')){PB('extra30',PWAd);}if((PWAk=='031')){PB('logo',PWAd);}if((PWAk=='032')){PB('extra32',PWAd);}if((PWAk=='033')){PB('extra33',PWAd);}if((PWAk=='034')){PB('megabox',PWAd);}if((PWAk=='035')){PB('extra35',PWAd);}if((PWAk=='036')){PB('extra36',PWAd);}if((PWAk=='037')){PB('megasky',PWAd);}if((PWAk=='038')){PB('extra38',PWAd);}if((PWAk=='039')){PB('extra39',PWAd);}if((PWAk=='040')){PB('extra40',PWAd);}if((PWAk=='041')){PB('extra41',PWAd);}if((PWAk=='042')){PB('extra42',PWAd);}if((PWAk=='043')){PB('extra43',PWAd);}if((PWAk=='044')){PB('extra44',PWAd);}if((PWAk=='045')){PB('extra45',PWAd);}if((PWAk=='046')){PB('extra46',PWAd);}if((PWAk=='047')){PB('extra47',PWAd);}if((PWAk=='048')){PB('extra48',PWAd);}if((PWAk=='049')){PB('extra49',PWAd);}if((PWAk=='050')){PB('extra50',PWAd);}if((PWAk=='051')){PB('extra51',PWAd);}if((PWAk=='052')){PB('extra52',PWAd);}if((PWAk=='053')){PB('extra53',PWAd);}if((PWAk=='054')){PB('extra54',PWAd);}if((PWAk=='055')){PB('extra55',PWAd);}if((PWAk=='056')){PB('extra56',PWAd);}if((PWAk=='057')){PB('extra57',PWAd);}if((PWAk=='058')){PB('extra58',PWAd);}if((PWAk=='059')){PB('extra59',PWAd);}if((PWAk=='060')){PB('extra60',PWAd);}if((PWAk=='061')){PB('extra61',PWAd);}if((PWAk=='062')){PB('extra62',PWAd);}if((PWAk=='063')){PB('extra63',PWAd);}if((PWAk=='064')){PB('extra64',PWAd);}if((PWAk=='065')){PB('extra65',PWAd);}if((PWAk=='066')){PB('extra66',PWAd);}if((PWAk=='067')){PB('extra67',PWAd);}if((PWAk=='068')){PB('extra68',PWAd);}if((PWAk=='069')){PB('extra69',PWAd);}if((PWAk=='070')){PB('extra70',PWAd);}if((PWAk=='071')){PB('extra71',PWAd);}if((PWAk=='072')){PB('extra72',PWAd);}if((PWAk=='073')){PB('extra73',PWAd);}if((PWAk=='074')){PB('extra74',PWAd);}if((PWAk=='075')){PB('extra75',PWAd);}if((PWAk=='076')){PB('extra76',PWAd);}if((PWAk=='077')){PB('extra77',PWAd);}if((PWAk=='078')){PB('extra78',PWAd);}if((PWAk=='079')){PB('extra79',PWAd);}if((PWAk=='080')){PB('extra80',PWAd);}if((PWAk=='081')){PB('extra81',PWAd);}if((PWAk=='082')){PB('extra82',PWAd);}if((PWAk=='083')){PB('extra83',PWAd);}if((PWAk=='084')){PB('extra84',PWAd);}if((PWAk=='085')){PB('extra85',PWAd);}if((PWAk=='086')){PB('extra86',PWAd);}if((PWAk=='087')){PB('extra87',PWAd);}if((PWAk=='088')){PB('extra88',PWAd);}if((PWAk=='089')){PB('extra89',PWAd);}if((PWAk=='090')){PB('extra90',PWAd);}if((PWAk=='091')){PB('extra91',PWAd);}if((PWAk=='092')){PB('extra92',PWAd);}if((PWAk=='093')){PB('extra93',PWAd);}if((PWAk=='094')){PB('extra94',PWAd);}if((PWAk=='095')){PB('extra95',PWAd);}if((PWAk=='096')){PB('extra96',PWAd);}if((PWAk=='097')){PB('extra97',PWAd);}if((PWAk=='098')){PB('extra98',PWAd);}if((PWAk=='099')){PB('extra99',PWAd);}if((PWAk=='100')){PB('extra100',PWAd);}if((PWAk=='101')){PB('extra101',PWAd);}if((PWAk=='102')){PB('extra102',PWAd);}if((PWAk=='103')){PB('extra103',PWAd);}if((PWAk=='104')){PB('extra104',PWAd);}if((PWAk=='105')){PB('extra105',PWAd);}if((PWAk=='106')){PB('extra106',PWAd);}if((PWAk=='107')){PB('extra107',PWAd);}if((PWAk=='108')){PB('extra108',PWAd);}if((PWAk=='109')){PB('extra109',PWAd);}if((PWAk=='110')){PB('extra110',PWAd);}if((PWAk=='111')){PB('extra111',PWAd);}if((PWAk=='112')){PB('extra112',PWAd);}if((PWAk=='113')){PB('extra113',PWAd);}if((PWAk=='114')){PB('extra114',PWAd);}if((PWAk=='115')){PB('extra115',PWAd);}if((PWAk=='116')){PB('extra116',PWAd);}if((PWAk=='117')){PB('extra117',PWAd);}if((PWAk=='118')){PB('extra118',PWAd);}if((PWAk=='119')){PB('extra119',PWAd);}if((PWAk=='120')){PB('extra120',PWAd);}if((PWAk=='121')){PB('extra121',PWAd);}if((PWAk=='122')){PB('extra122',PWAd);}if((PWAk=='123')){PB('extra123',PWAd);}if((PWAk=='130')){PB('VideoBlok-130-TL',PWAd);}if((PWAk=='131')){PB('VideoBlok-131-TL',PWAd);}if((PWAk=='132')){PB('VideoBlok-132-TL',PWAd);}if((PWAk=='133')){PB('VideoBlok-133-TL',PWAd);}if((PWAk=='134')){PB('VideoBlok-134-TL',PWAd);}if((PWAk=='135')){PB('VideoBlok-135-TL',PWAd);}if((PWAk=='136')){PB('VideoBlok-136-TL',PWAd);}if((PWAk=='137')){PB('VideoBlok-137-TL',PWAd);}if((PWAk=='138')){PB('VideoBlok-138-TL',PWAd);}if((PWAk=='139')){PB('VideoBlok-139-TL',PWAd);}if((PWAk=='140')){PB('VideoBlok-140-BL',PWAd);}if((PWAk=='141')){PB('VideoBlok-141-BL',PWAd);}if((PWAk=='142')){PB('VideoBlok-142-BL',PWAd);}if((PWAk=='143')){PB('VideoBlok-143-BL',PWAd);}if((PWAk=='144')){PB('VideoBlok-144-BL',PWAd);}if((PWAk=='145')){PB('VideoBlok-145-BL',PWAd);}if((PWAk=='146')){PB('VideoBlok-146-BL',PWAd);}if((PWAk=='147')){PB('VideoBlok-147-BL',PWAd);}if((PWAk=='148')){PB('VideoBlok-148-BL',PWAd);}if((PWAk=='149')){PB('VideoBlok-149-BL',PWAd);}if((PWAk=='150')){PB('VideoBlok-150-DSP',PWAd);}if((PWAk=='151')){PB('VideoBlok-151-DSP',PWAd);}if((PWAk=='152')){PB('VideoBlok-152-DSP',PWAd);}if((PWAk=='153')){PB('VideoBlok-153-DSP',PWAd);}if((PWAk=='154')){PB('VideoBlok-154-DSP',PWAd);}if((PWAk=='155')){PB('VideoBlok-155-DSP',PWAd);}if((PWAk=='156')){PB('VideoBlok-156-DSP',PWAd);}if((PWAk=='157')){PB('VideoBlok-157-DSP',PWAd);}if((PWAk=='158')){PB('VideoBlok-158-DSP',PWAd);}if((PWAk=='159')){PB('VideoBlok-159-DSP',PWAd);}if((PWAk=='160')){PB('VideoBlok-160-MR',PWAd);}if((PWAk=='161')){PB('VideoBlok-161-MR',PWAd);}if((PWAk=='162')){PB('VideoBlok-162-MR',PWAd);}if((PWAk=='163')){PB('VideoBlok-163-MR',PWAd);}if((PWAk=='164')){PB('VideoBlok-164-MR',PWAd);}if((PWAk=='165')){PB('VideoBlok-165-MR',PWAd);}if((PWAk=='166')){PB('VideoBlok-166-MR',PWAd);}if((PWAk=='167')){PB('VideoBlok-167-MR',PWAd);}if((PWAk=='168')){PB('VideoBlok-168-MR',PWAd);}if((PWAk=='169')){PB('VideoBlok-169-MR',PWAd);}if((PWAk=='170')){PB('VideoBlok-170-MR',PWAd);}if((PWAk=='171')){PB('VideoBlok-171-MR',PWAd);}if((PWAk=='172')){PB('VideoBlok-172-MR',PWAd);}if((PWAk=='173')){PB('VideoBlok-173-MR',PWAd);}if((PWAk=='174')){PB('VideoBlok-174-MR',PWAd);}if((PWAk=='175')){PB('VideoBlok-175-MR',PWAd);}if((PWAk=='176')){PB('VideoBlok-176-MR',PWAd);}if((PWAk=='177')){PB('VideoBlok-177-MR',PWAd);}if((PWAk=='178')){PB('VideoBlok-178-MR',PWAd);}if((PWAk=='179')){PB('VideoBlok-179-MR',PWAd);}if((PWAk=='180')){PB('VideoBlok-180-MR',PWAd);}if((PWAk=='181')){PB('VideoBlok-181-MR',PWAd);}if((PWAk=='182')){PB('VideoBlok-182-MR',PWAd);}if((PWAk=='183')){PB('VideoBlok-183-MR',PWAd);}if((PWAk=='184')){PB('VideoBlok-184-MR',PWAd);}if((PWAk=='185')){PB('VideoBlok-185-MR',PWAd);}if((PWAk=='186')){PB('VideoBlok-186-MR',PWAd);}if((PWAk=='187')){PB('VideoBlok-187-MR',PWAd);}if((PWAk=='188')){PB('VideoBlok-188-MR',PWAd);}if((PWAk=='189')){PB('VideoBlok-189-MR',PWAd);}if((PWAk=='190')){PB('VideoBlok-190-MR-DSP',PWAd);}if((PWAk=='191')){PB('VideoBlok-191-MR-DSP',PWAd);}if((PWAk=='192')){PB('VideoBlok-192-MR-DSP',PWAd);}if((PWAk=='193')){PB('VideoBlok-193-MR-DSP',PWAd);}if((PWAk=='194')){PB('VideoBlok-194-MR-DSP',PWAd);}if((PWAk=='195')){PB('VideoBlok-195-MR-DSP',PWAd);}if((PWAk=='196')){PB('VideoBlok-196-MR-DSP',PWAd);}if((PWAk=='197')){PB('VideoBlok-197-MR-DSP',PWAd);}if((PWAk=='198')){PB('VideoBlok-198-MR-DSP',PWAd);}if((PWAk=='199')){PB('VideoBlok-199-MR-DSP',PWAd);}}function NJB(PWAk){return JB(PWAk);}function PWAko(){var d=document;if(PWAge('adv01')!=null){if(NJB('onload')==false){PWAss('adv01','none');}else{PWAss('adv01','block');}}if(PWAge('adv02')!=null){if(NJB('baner')==false){PWAss('adv02','none');}else{PWAss('adv02','block');}}if(PWAge('adv03')!=null){if(NJB('billboard')==false){PWAss('adv03','none');}else{PWAss('adv03','block');}}if(PWAge('adv04')!=null){if(NJB('box')==false){PWAss('adv04','none');}else{PWAss('adv04','block');}}if(PWAge('adv05')!=null){if(NJB('srodtekst')==false){PWAss('adv05','none');}else{PWAss('adv05','block');}}if(PWAge('adv06')!=null){if(NJB('banerdol')==false){PWAss('adv06','none');}else{PWAss('adv06','block');}}if(PWAge('adv07')!=null){if(NJB('skyscraper')==false){PWAss('adv07','none');}else{PWAss('adv07','block');}}if(PWAge('adv08')!=null){if(NJB('pop')==false){PWAss('adv08','none');}else{PWAss('adv08','block');}}if(PWAge('adv09')!=null){if(NJB('toplayer')==false){PWAss('adv09','none');}else{PWAss('adv09','block');}}if(PWAge('adv10')!=null){if(NJB('extra10')==false){PWAss('adv10','none');}else{PWAss('adv10','block');}}if(PWAge('adv11')!=null){if(NJB('extra11')==false){PWAss('adv11','none');}else{PWAss('adv11','block');}}if(PWAge('adv12')!=null){if(NJB('extra12')==false){PWAss('adv12','none');}else{PWAss('adv12','block');}}if(PWAge('adv13')!=null){if(NJB('extra13')==false){PWAss('adv13','none');}else{PWAss('adv13','block');}}if(PWAge('adv14')!=null){if(NJB('extra14')==false){PWAss('adv14','none');}else{PWAss('adv14','block');}}if(PWAge('adv15')!=null){if(NJB('extra15')==false){PWAss('adv15','none');}else{PWAss('adv15','block');}}if(PWAge('adv16')!=null){if(NJB('extra16')==false){PWAss('adv16','none');}else{PWAss('adv16','block');}}if(PWAge('adv17')!=null){if(NJB('extra17')==false){PWAss('adv17','none');}else{PWAss('adv17','block');}}if(PWAge('adv18')!=null){if(NJB('extra18')==false){PWAss('adv18','none');}else{PWAss('adv18','block');}}if(PWAge('adv19')!=null){if(NJB('extra19')==false){PWAss('adv19','none');}else{PWAss('adv19','block');}}if(PWAge('adv20')!=null){if(NJB('extra20')==false){PWAss('adv20','none');}else{PWAss('adv20','block');}}if(PWAge('adv21')!=null){if(NJB('extra21')==false){PWAss('adv21','none');}else{PWAss('adv21','block');}}if(PWAge('adv22')!=null){if(NJB('extra22')==false){PWAss('adv22','none');}else{PWAss('adv22','block');}}if(PWAge('adv23')!=null){if(NJB('extra23')==false){PWAss('adv23','none');}else{PWAss('adv23','block');}}if(PWAge('adv24')!=null){if(NJB('extra24')==false){PWAss('adv24','none');}else{PWAss('adv24','block');}}if(PWAge('adv25')!=null){if(NJB('extra25')==false){PWAss('adv25','none');}else{PWAss('adv25','block');}}if(PWAge('adv26')!=null){if(NJB('extra26')==false){PWAss('adv26','none');}else{PWAss('adv26','block');}}if(PWAge('adv27')!=null){if(NJB('extra27')==false){PWAss('adv27','none');}else{PWAss('adv27','block');}}if(PWAge('adv28')!=null){if(NJB('extra28')==false){PWAss('adv28','none');}else{PWAss('adv28','block');}}if(PWAge('adv29')!=null){if(NJB('extra29')==false){PWAss('adv29','none');}else{PWAss('adv29','block');}}if(PWAge('adv30')!=null){if(NJB('extra30')==false){PWAss('adv30','none');}else{PWAss('adv30','block');}}if(PWAge('adv31')!=null){if(NJB('logo')==false){PWAss('adv31','none');}else{PWAss('adv31','block');}}if(PWAge('adv32')!=null){if(NJB('extra32')==false){PWAss('adv32','none');}else{PWAss('adv32','block');}}if(PWAge('adv33')!=null){if(NJB('extra33')==false){PWAss('adv33','none');}else{PWAss('adv33','block');}}if(PWAge('adv34')!=null){if(NJB('megabox')==false){PWAss('adv34','none');}else{PWAss('adv34','block');}}if(PWAge('adv35')!=null){if(NJB('extra35')==false){PWAss('adv35','none');}else{PWAss('adv35','block');}}if(PWAge('adv36')!=null){if(NJB('extra36')==false){PWAss('adv36','none');}else{PWAss('adv36','block');}}if(PWAge('adv37')!=null){if(NJB('megasky')==false){PWAss('adv37','none');}else{PWAss('adv37','block');}}if(PWAge('adv38')!=null){if(NJB('extra38')==false){PWAss('adv38','none');}else{PWAss('adv38','block');}}if(PWAge('adv39')!=null){if(NJB('extra39')==false){PWAss('adv39','none');}else{PWAss('adv39','block');}}if(PWAge('adv40')!=null){if(NJB('extra40')==false){PWAss('adv40','none');}else{PWAss('adv40','block');}}if(PWAge('adv41')!=null){if(NJB('extra41')==false){PWAss('adv41','none');}else{PWAss('adv41','block');}}if(PWAge('adv42')!=null){if(NJB('extra42')==false){PWAss('adv42','none');}else{PWAss('adv42','block');}}if(PWAge('adv43')!=null){if(NJB('extra43')==false){PWAss('adv43','none');}else{PWAss('adv43','block');}}if(PWAge('adv44')!=null){if(NJB('extra44')==false){PWAss('adv44','none');}else{PWAss('adv44','block');}}if(PWAge('adv45')!=null){if(NJB('extra45')==false){PWAss('adv45','none');}else{PWAss('adv45','block');}}if(PWAge('adv46')!=null){if(NJB('extra46')==false){PWAss('adv46','none');}else{PWAss('adv46','block');}}if(PWAge('adv47')!=null){if(NJB('extra47')==false){PWAss('adv47','none');}else{PWAss('adv47','block');}}if(PWAge('adv48')!=null){if(NJB('extra48')==false){PWAss('adv48','none');}else{PWAss('adv48','block');}}if(PWAge('adv49')!=null){if(NJB('extra49')==false){PWAss('adv49','none');}else{PWAss('adv49','block');}}if(PWAge('adv50')!=null){if(NJB('extra50')==false){PWAss('adv50','none');}else{PWAss('adv50','block');}}if(PWAge('adv51')!=null){if(NJB('extra51')==false){PWAss('adv51','none');}else{PWAss('adv51','block');}}if(PWAge('adv52')!=null){if(NJB('extra52')==false){PWAss('adv52','none');}else{PWAss('adv52','block');}}if(PWAge('adv53')!=null){if(NJB('extra53')==false){PWAss('adv53','none');}else{PWAss('adv53','block');}}if(PWAge('adv54')!=null){if(NJB('extra54')==false){PWAss('adv54','none');}else{PWAss('adv54','block');}}if(PWAge('adv55')!=null){if(NJB('extra55')==false){PWAss('adv55','none');}else{PWAss('adv55','block');}}if(PWAge('adv56')!=null){if(NJB('extra56')==false){PWAss('adv56','none');}else{PWAss('adv56','block');}}if(PWAge('adv57')!=null){if(NJB('extra57')==false){PWAss('adv57','none');}else{PWAss('adv57','block');}}if(PWAge('adv58')!=null){if(NJB('extra58')==false){PWAss('adv58','none');}else{PWAss('adv58','block');}}if(PWAge('adv59')!=null){if(NJB('extra59')==false){PWAss('adv59','none');}else{PWAss('adv59','block');}}if(PWAge('adv60')!=null){if(NJB('extra60')==false){PWAss('adv60','none');}else{PWAss('adv60','block');}}if(PWAge('adv61')!=null){if(NJB('extra61')==false){PWAss('adv61','none');}else{PWAss('adv61','block');}}if(PWAge('adv62')!=null){if(NJB('extra62')==false){PWAss('adv62','none');}else{PWAss('adv62','block');}}if(PWAge('adv63')!=null){if(NJB('extra63')==false){PWAss('adv63','none');}else{PWAss('adv63','block');}}if(PWAge('adv64')!=null){if(NJB('extra64')==false){PWAss('adv64','none');}else{PWAss('adv64','block');}}if(PWAge('adv65')!=null){if(NJB('extra65')==false){PWAss('adv65','none');}else{PWAss('adv65','block');}}if(PWAge('adv66')!=null){if(NJB('extra66')==false){PWAss('adv66','none');}else{PWAss('adv66','block');}}if(PWAge('adv67')!=null){if(NJB('extra67')==false){PWAss('adv67','none');}else{PWAss('adv67','block');}}if(PWAge('adv68')!=null){if(NJB('extra68')==false){PWAss('adv68','none');}else{PWAss('adv68','block');}}if(PWAge('adv69')!=null){if(NJB('extra69')==false){PWAss('adv69','none');}else{PWAss('adv69','block');}}if(PWAge('adv70')!=null){if(NJB('extra70')==false){PWAss('adv70','none');}else{PWAss('adv70','block');}}if(PWAge('adv71')!=null){if(NJB('extra71')==false){PWAss('adv71','none');}else{PWAss('adv71','block');}}if(PWAge('adv72')!=null){if(NJB('extra72')==false){PWAss('adv72','none');}else{PWAss('adv72','block');}}if(PWAge('adv73')!=null){if(NJB('extra73')==false){PWAss('adv73','none');}else{PWAss('adv73','block');}}if(PWAge('adv74')!=null){if(NJB('extra74')==false){PWAss('adv74','none');}else{PWAss('adv74','block');}}if(PWAge('adv75')!=null){if(NJB('extra75')==false){PWAss('adv75','none');}else{PWAss('adv75','block');}}if(PWAge('adv76')!=null){if(NJB('extra76')==false){PWAss('adv76','none');}else{PWAss('adv76','block');}}if(PWAge('adv77')!=null){if(NJB('extra77')==false){PWAss('adv77','none');}else{PWAss('adv77','block');}}if(PWAge('adv78')!=null){if(NJB('extra78')==false){PWAss('adv78','none');}else{PWAss('adv78','block');}}if(PWAge('adv79')!=null){if(NJB('extra79')==false){PWAss('adv79','none');}else{PWAss('adv79','block');}}if(PWAge('adv80')!=null){if(NJB('extra80')==false){PWAss('adv80','none');}else{PWAss('adv80','block');}}if(PWAge('adv81')!=null){if(NJB('extra81')==false){PWAss('adv81','none');}else{PWAss('adv81','block');}}if(PWAge('adv82')!=null){if(NJB('extra82')==false){PWAss('adv82','none');}else{PWAss('adv82','block');}}if(PWAge('adv83')!=null){if(NJB('extra83')==false){PWAss('adv83','none');}else{PWAss('adv83','block');}}if(PWAge('adv84')!=null){if(NJB('extra84')==false){PWAss('adv84','none');}else{PWAss('adv84','block');}}if(PWAge('adv85')!=null){if(NJB('extra85')==false){PWAss('adv85','none');}else{PWAss('adv85','block');}}if(PWAge('adv86')!=null){if(NJB('extra86')==false){PWAss('adv86','none');}else{PWAss('adv86','block');}}if(PWAge('adv87')!=null){if(NJB('extra87')==false){PWAss('adv87','none');}else{PWAss('adv87','block');}}if(PWAge('adv88')!=null){if(NJB('extra88')==false){PWAss('adv88','none');}else{PWAss('adv88','block');}}if(PWAge('adv89')!=null){if(NJB('extra89')==false){PWAss('adv89','none');}else{PWAss('adv89','block');}}if(PWAge('adv90')!=null){if(NJB('extra90')==false){PWAss('adv90','none');}else{PWAss('adv90','block');}}if(PWAge('adv91')!=null){if(NJB('extra91')==false){PWAss('adv91','none');}else{PWAss('adv91','block');}}if(PWAge('adv92')!=null){if(NJB('extra92')==false){PWAss('adv92','none');}else{PWAss('adv92','block');}}if(PWAge('adv93')!=null){if(NJB('extra93')==false){PWAss('adv93','none');}else{PWAss('adv93','block');}}if(PWAge('adv94')!=null){if(NJB('extra94')==false){PWAss('adv94','none');}else{PWAss('adv94','block');}}if(PWAge('adv95')!=null){if(NJB('extra95')==false){PWAss('adv95','none');}else{PWAss('adv95','block');}}if(PWAge('adv96')!=null){if(NJB('extra96')==false){PWAss('adv96','none');}else{PWAss('adv96','block');}}if(PWAge('adv97')!=null){if(NJB('extra97')==false){PWAss('adv97','none');}else{PWAss('adv97','block');}}if(PWAge('adv98')!=null){if(NJB('extra98')==false){PWAss('adv98','none');}else{PWAss('adv98','block');}}if(PWAge('adv99')!=null){if(NJB('extra99')==false){PWAss('adv99','none');}else{PWAss('adv99','block');}}if(PWAge('adv100')!=null){if(NJB('extra100')==false){PWAss('adv100','none');}else{PWAss('adv100','block');}}if(PWAge('adv101')!=null){if(NJB('extra101')==false){PWAss('adv101','none');}else{PWAss('adv101','block');}}if(PWAge('adv102')!=null){if(NJB('extra102')==false){PWAss('adv102','none');}else{PWAss('adv102','block');}}if(PWAge('adv103')!=null){if(NJB('extra103')==false){PWAss('adv103','none');}else{PWAss('adv103','block');}}if(PWAge('adv104')!=null){if(NJB('extra104')==false){PWAss('adv104','none');}else{PWAss('adv104','block');}}if(PWAge('adv105')!=null){if(NJB('extra105')==false){PWAss('adv105','none');}else{PWAss('adv105','block');}}if(PWAge('adv106')!=null){if(NJB('extra106')==false){PWAss('adv106','none');}else{PWAss('adv106','block');}}if(PWAge('adv107')!=null){if(NJB('extra107')==false){PWAss('adv107','none');}else{PWAss('adv107','block');}}if(PWAge('adv108')!=null){if(NJB('extra108')==false){PWAss('adv108','none');}else{PWAss('adv108','block');}}if(PWAge('adv109')!=null){if(NJB('extra109')==false){PWAss('adv109','none');}else{PWAss('adv109','block');}}if(PWAge('adv110')!=null){if(NJB('extra110')==false){PWAss('adv110','none');}else{PWAss('adv110','block');}}if(PWAge('adv111')!=null){if(NJB('extra111')==false){PWAss('adv111','none');}else{PWAss('adv111','block');}}if(PWAge('adv112')!=null){if(NJB('extra112')==false){PWAss('adv112','none');}else{PWAss('adv112','block');}}if(PWAge('adv113')!=null){if(NJB('extra113')==false){PWAss('adv113','none');}else{PWAss('adv113','block');}}if(PWAge('adv114')!=null){if(NJB('extra114')==false){PWAss('adv114','none');}else{PWAss('adv114','block');}}if(PWAge('adv115')!=null){if(NJB('extra115')==false){PWAss('adv115','none');}else{PWAss('adv115','block');}}if(PWAge('adv116')!=null){if(NJB('extra116')==false){PWAss('adv116','none');}else{PWAss('adv116','block');}}if(PWAge('adv117')!=null){if(NJB('extra117')==false){PWAss('adv117','none');}else{PWAss('adv117','block');}}if(PWAge('adv118')!=null){if(NJB('extra118')==false){PWAss('adv118','none');}else{PWAss('adv118','block');}}if(PWAge('adv119')!=null){if(NJB('extra119')==false){PWAss('adv119','none');}else{PWAss('adv119','block');}}if(PWAge('adv120')!=null){if(NJB('extra120')==false){PWAss('adv120','none');}else{PWAss('adv120','block');}}if(PWAge('adv121')!=null){if(NJB('extra121')==false){PWAss('adv121','none');}else{PWAss('adv121','block');}}if(PWAge('adv122')!=null){if(NJB('extra122')==false){PWAss('adv122','none');}else{PWAss('adv122','block');}}if(PWAge('adv123')!=null){if(NJB('extra123')==false){PWAss('adv123','none');}else{PWAss('adv123','block');}}if(PWAge('adv130')!=null){if(NJB('VideoBlok-130-TL')==false){PWAss('adv130','none');}else{PWAss('adv130','block');}}if(PWAge('adv131')!=null){if(NJB('VideoBlok-131-TL')==false){PWAss('adv131','none');}else{PWAss('adv131','block');}}if(PWAge('adv132')!=null){if(NJB('VideoBlok-132-TL')==false){PWAss('adv132','none');}else{PWAss('adv132','block');}}if(PWAge('adv133')!=null){if(NJB('VideoBlok-133-TL')==false){PWAss('adv133','none');}else{PWAss('adv133','block');}}if(PWAge('adv134')!=null){if(NJB('VideoBlok-134-TL')==false){PWAss('adv134','none');}else{PWAss('adv134','block');}}if(PWAge('adv135')!=null){if(NJB('VideoBlok-135-TL')==false){PWAss('adv135','none');}else{PWAss('adv135','block');}}if(PWAge('adv136')!=null){if(NJB('VideoBlok-136-TL')==false){PWAss('adv136','none');}else{PWAss('adv136','block');}}if(PWAge('adv137')!=null){if(NJB('VideoBlok-137-TL')==false){PWAss('adv137','none');}else{PWAss('adv137','block');}}if(PWAge('adv138')!=null){if(NJB('VideoBlok-138-TL')==false){PWAss('adv138','none');}else{PWAss('adv138','block');}}if(PWAge('adv139')!=null){if(NJB('VideoBlok-139-TL')==false){PWAss('adv139','none');}else{PWAss('adv139','block');}}if(PWAge('adv140')!=null){if(NJB('VideoBlok-140-BL')==false){PWAss('adv140','none');}else{PWAss('adv140','block');}}if(PWAge('adv141')!=null){if(NJB('VideoBlok-141-BL')==false){PWAss('adv141','none');}else{PWAss('adv141','block');}}if(PWAge('adv142')!=null){if(NJB('VideoBlok-142-BL')==false){PWAss('adv142','none');}else{PWAss('adv142','block');}}if(PWAge('adv143')!=null){if(NJB('VideoBlok-143-BL')==false){PWAss('adv143','none');}else{PWAss('adv143','block');}}if(PWAge('adv144')!=null){if(NJB('VideoBlok-144-BL')==false){PWAss('adv144','none');}else{PWAss('adv144','block');}}if(PWAge('adv145')!=null){if(NJB('VideoBlok-145-BL')==false){PWAss('adv145','none');}else{PWAss('adv145','block');}}if(PWAge('adv146')!=null){if(NJB('VideoBlok-146-BL')==false){PWAss('adv146','none');}else{PWAss('adv146','block');}}if(PWAge('adv147')!=null){if(NJB('VideoBlok-147-BL')==false){PWAss('adv147','none');}else{PWAss('adv147','block');}}if(PWAge('adv148')!=null){if(NJB('VideoBlok-148-BL')==false){PWAss('adv148','none');}else{PWAss('adv148','block');}}if(PWAge('adv149')!=null){if(NJB('VideoBlok-149-BL')==false){PWAss('adv149','none');}else{PWAss('adv149','block');}}if(PWAge('adv150')!=null){if(NJB('VideoBlok-150-DSP')==false){PWAss('adv150','none');}else{PWAss('adv150','block');}}if(PWAge('adv151')!=null){if(NJB('VideoBlok-151-DSP')==false){PWAss('adv151','none');}else{PWAss('adv151','block');}}if(PWAge('adv152')!=null){if(NJB('VideoBlok-152-DSP')==false){PWAss('adv152','none');}else{PWAss('adv152','block');}}if(PWAge('adv153')!=null){if(NJB('VideoBlok-153-DSP')==false){PWAss('adv153','none');}else{PWAss('adv153','block');}}if(PWAge('adv154')!=null){if(NJB('VideoBlok-154-DSP')==false){PWAss('adv154','none');}else{PWAss('adv154','block');}}if(PWAge('adv155')!=null){if(NJB('VideoBlok-155-DSP')==false){PWAss('adv155','none');}else{PWAss('adv155','block');}}if(PWAge('adv156')!=null){if(NJB('VideoBlok-156-DSP')==false){PWAss('adv156','none');}else{PWAss('adv156','block');}}if(PWAge('adv157')!=null){if(NJB('VideoBlok-157-DSP')==false){PWAss('adv157','none');}else{PWAss('adv157','block');}}if(PWAge('adv158')!=null){if(NJB('VideoBlok-158-DSP')==false){PWAss('adv158','none');}else{PWAss('adv158','block');}}if(PWAge('adv159')!=null){if(NJB('VideoBlok-159-DSP')==false){PWAss('adv159','none');}else{PWAss('adv159','block');}}if(PWAge('adv160')!=null){if(NJB('VideoBlok-160-MR')==false){PWAss('adv160','none');}else{PWAss('adv160','block');}}if(PWAge('adv161')!=null){if(NJB('VideoBlok-161-MR')==false){PWAss('adv161','none');}else{PWAss('adv161','block');}}if(PWAge('adv162')!=null){if(NJB('VideoBlok-162-MR')==false){PWAss('adv162','none');}else{PWAss('adv162','block');}}if(PWAge('adv163')!=null){if(NJB('VideoBlok-163-MR')==false){PWAss('adv163','none');}else{PWAss('adv163','block');}}if(PWAge('adv164')!=null){if(NJB('VideoBlok-164-MR')==false){PWAss('adv164','none');}else{PWAss('adv164','block');}}if(PWAge('adv165')!=null){if(NJB('VideoBlok-165-MR')==false){PWAss('adv165','none');}else{PWAss('adv165','block');}}if(PWAge('adv166')!=null){if(NJB('VideoBlok-166-MR')==false){PWAss('adv166','none');}else{PWAss('adv166','block');}}if(PWAge('adv167')!=null){if(NJB('VideoBlok-167-MR')==false){PWAss('adv167','none');}else{PWAss('adv167','block');}}if(PWAge('adv168')!=null){if(NJB('VideoBlok-168-MR')==false){PWAss('adv168','none');}else{PWAss('adv168','block');}}if(PWAge('adv169')!=null){if(NJB('VideoBlok-169-MR')==false){PWAss('adv169','none');}else{PWAss('adv169','block');}}if(PWAge('adv170')!=null){if(NJB('VideoBlok-170-MR')==false){PWAss('adv170','none');}else{PWAss('adv170','block');}}if(PWAge('adv171')!=null){if(NJB('VideoBlok-171-MR')==false){PWAss('adv171','none');}else{PWAss('adv171','block');}}if(PWAge('adv172')!=null){if(NJB('VideoBlok-172-MR')==false){PWAss('adv172','none');}else{PWAss('adv172','block');}}if(PWAge('adv173')!=null){if(NJB('VideoBlok-173-MR')==false){PWAss('adv173','none');}else{PWAss('adv173','block');}}if(PWAge('adv174')!=null){if(NJB('VideoBlok-174-MR')==false){PWAss('adv174','none');}else{PWAss('adv174','block');}}if(PWAge('adv175')!=null){if(NJB('VideoBlok-175-MR')==false){PWAss('adv175','none');}else{PWAss('adv175','block');}}if(PWAge('adv176')!=null){if(NJB('VideoBlok-176-MR')==false){PWAss('adv176','none');}else{PWAss('adv176','block');}}if(PWAge('adv177')!=null){if(NJB('VideoBlok-177-MR')==false){PWAss('adv177','none');}else{PWAss('adv177','block');}}if(PWAge('adv178')!=null){if(NJB('VideoBlok-178-MR')==false){PWAss('adv178','none');}else{PWAss('adv178','block');}}if(PWAge('adv179')!=null){if(NJB('VideoBlok-179-MR')==false){PWAss('adv179','none');}else{PWAss('adv179','block');}}if(PWAge('adv180')!=null){if(NJB('VideoBlok-180-MR')==false){PWAss('adv180','none');}else{PWAss('adv180','block');}}if(PWAge('adv181')!=null){if(NJB('VideoBlok-181-MR')==false){PWAss('adv181','none');}else{PWAss('adv181','block');}}if(PWAge('adv182')!=null){if(NJB('VideoBlok-182-MR')==false){PWAss('adv182','none');}else{PWAss('adv182','block');}}if(PWAge('adv183')!=null){if(NJB('VideoBlok-183-MR')==false){PWAss('adv183','none');}else{PWAss('adv183','block');}}if(PWAge('adv184')!=null){if(NJB('VideoBlok-184-MR')==false){PWAss('adv184','none');}else{PWAss('adv184','block');}}if(PWAge('adv185')!=null){if(NJB('VideoBlok-185-MR')==false){PWAss('adv185','none');}else{PWAss('adv185','block');}}if(PWAge('adv186')!=null){if(NJB('VideoBlok-186-MR')==false){PWAss('adv186','none');}else{PWAss('adv186','block');}}if(PWAge('adv187')!=null){if(NJB('VideoBlok-187-MR')==false){PWAss('adv187','none');}else{PWAss('adv187','block');}}if(PWAge('adv188')!=null){if(NJB('VideoBlok-188-MR')==false){PWAss('adv188','none');}else{PWAss('adv188','block');}}if(PWAge('adv189')!=null){if(NJB('VideoBlok-189-MR')==false){PWAss('adv189','none');}else{PWAss('adv189','block');}}if(PWAge('adv190')!=null){if(NJB('VideoBlok-190-MR-DSP')==false){PWAss('adv190','none');}else{PWAss('adv190','block');}}if(PWAge('adv191')!=null){if(NJB('VideoBlok-191-MR-DSP')==false){PWAss('adv191','none');}else{PWAss('adv191','block');}}if(PWAge('adv192')!=null){if(NJB('VideoBlok-192-MR-DSP')==false){PWAss('adv192','none');}else{PWAss('adv192','block');}}if(PWAge('adv193')!=null){if(NJB('VideoBlok-193-MR-DSP')==false){PWAss('adv193','none');}else{PWAss('adv193','block');}}if(PWAge('adv194')!=null){if(NJB('VideoBlok-194-MR-DSP')==false){PWAss('adv194','none');}else{PWAss('adv194','block');}}if(PWAge('adv195')!=null){if(NJB('VideoBlok-195-MR-DSP')==false){PWAss('adv195','none');}else{PWAss('adv195','block');}}if(PWAge('adv196')!=null){if(NJB('VideoBlok-196-MR-DSP')==false){PWAss('adv196','none');}else{PWAss('adv196','block');}}if(PWAge('adv197')!=null){if(NJB('VideoBlok-197-MR-DSP')==false){PWAss('adv197','none');}else{PWAss('adv197','block');}}if(PWAge('adv198')!=null){if(NJB('VideoBlok-198-MR-DSP')==false){PWAss('adv198','none');}else{PWAss('adv198','block');}}if(PWAge('adv199')!=null){if(NJB('VideoBlok-199-MR-DSP')==false){PWAss('adv199','none');}else{PWAss('adv199','block');}} }function PWAbeq(){var PWAs1='';if(this.PWA_adbd){PWAs1 +='&PWA_adbd='+PWA_adbd;}if(this.PWA_adv){PWAs1 +='&PWA_adv='+PWA_adv;}return PWAs1;}window.hasSentinel();function PWAgMU(PWAmt){return "http://erk.www.wp.pl/?rid="+PWAgPI()+PWAgUI()+PWAgUP()+"&rektype="+PWAmt+PWAgPH()+PWAcs()+PWAgQ()+PWAbeq()+PWAgs()+PWAgchuid()+PWAbn()+"&PWAhour="+(new Date().getHours())+"&PWAminute="+(new Date().getMinutes())+"&PWAref="+PWAref();}function PWAvad(){return "//rek.www.wp.pl/vad.xml?rekid="+PWAgPI()+PWAgUI()+PWAgUP()+"&rektype=1"+PWAgPH()+PWAcs()+PWAgQ()+PWAbeq()+PWAgs()+PWAgchuid()+PWAbn()+"&PWAhour="+(new Date().getHours())+"&PWAminute="+(new Date().getMinutes());}var PWAhperPer=PWAgMU(1)+'&PWAr='+PWAr;var PWAhperPth=window.hamper?window.hamper(PWAhperPer):PWAhperPer;PWAd.write('<scri'+'pt language="Javascript" src="'+PWAhperPth+'"></scr'+'ipt>');function getFlashVersion(){var PWAfv=0;if(navigator.plugins&&(n=navigator.plugins).length){for(x=0;x<n.length;x++){if(n[x].name.indexOf('Shockwave Flash')!=-1){PWAfv=n[x].description.split('Shockwave Flash ')[1].split('.')[0];}}}else{for(var PWAi=20;PWAi>0;PWAi--){PWAfv=0;try{var flash=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+PWAi);PWAfv=PWAi;break;}catch(e){}}}return PWAfv;}function getBrowserType(){uAgt='';browserType="";uAgt=navigator.userAgent.toLowerCase();if(uAgt.indexOf("opera")!=-1){browserType="opera";return browserType;}else if(uAgt.indexOf("msie")!=-1){browserType="msie";return browserType;}else if(uAgt.indexOf("mozilla")!=-1){browserType="mozilla";return browserType;}else{browserType="other";return browserType;}}function isWin(){return navigator.platform.indexOf('Win')!=-1;}var i;var selekty=[];if(PWAd.getElementsByTagName){selekty=PWAd.getElementsByTagName("SELECT");}else if(PWAd.all){selekty=PWAd.all.tags("SELECT");}function setSelects(visMode){    if(selekty && selekty.length>0){for(i=0;i<selekty.length;i++){if(selekty[i].style){selekty[i].style.visibility=visMode;}}    }}function PWAhE(e,u,l){PWAjel('PWAhE',e+' '+u+' '+l);return true;}
+	/*]]>*/
+	</script>
+<em><em><em><cite></cite></em></em></em><div id="dynAdv02"><div id="adv02"><script type="text/javascript">NPB("002");</script></div></div><em><em><em><var></var></em></em></em><div id="dynAdv03"><div id="adv03"><script type="text/javascript">NPB("003");</script></div></div>
+		<div id="Strona">
+			<div id="Container">
+					<script type="text/javascript">
+	    function OnScrollBrickLogger(domObj, sectionName, model, visibleWithPrefix, visible, order) {
+		this.w = WP.$(window);
+		this.fired = false;
+		this.elm = WP.$(domObj);
+		this.msg = 'srv='+String(window.wp_sn)
+				    +'&par=' + escape(
+					'sectionname='+sectionName
+					+'&generationid=20151011165104'
+					+'&model='+model
+					+"&"+visibleWithPrefix+"="+visible
+					+'&'+order
+				    )
+				    + '&action=scroll';
+
+		this.log = function() {
+		    var cp = 0;
+		    var self = this;
+		    this.w.on('scroll', function() {
+			gifPos = self.elm.offset().top+self.elm.height();
+			cp = parseInt(self.w.scrollTop()) + parseInt(window.innerHeight);
+			if (cp > gifPos && self.fired === false) {
+			    self.fired = true;
+			    WP.stat.eventShow(self.msg);
+			}
+		    });
+		}
+		this.log();
+		return this;
+	    }
+	</script>
+		<section class="sec start" data-st-area="Glonews">
+	    			<div class="newO2" data-st-area="o2belka_górna">
+				<a class="newO2__link" href="http://o2.pl" title="Nadchodzi nowe O2! #SERCEINTERNETU">Nadchodzi nowe O2! <strong>#SERCEINTERNETU</strong> <span class="newO2__btn">Zobacz nowe o2</span></a>
+			</div>
+	    		    <div class="wideCol">
+			<div class="Glonews-j379 sgf" data-st-area="Glonews-glowny">
+	    <div class="wideArt autor"><a href="http://wiadomosci.wp.pl/kat,1329,title,Czy-mozna-wierzyc-sondazom-wyborczym-Skad-biora-sie-roznice-w-wynikach,wid,17900718,wiadomosc.html" title="Wierzysz sonda¿om wyborczym? Koniecznie przeczytaj" data-st-mtype="1"><img width="506" height="329" src="http://y.wpimg.pl/i/ivar/G/201510/539551614--369857230.jpg" alt="" /><h2 data-autor="Cezary £azarewicz">Wierzysz sonda¿om wyborczym? Koniecznie przeczytaj</h2></a></div><div class="narrowArt nazywo"><a href="http://sportowefakty.wp.pl/pilka-nozna/552926/napiecie-rosnie-ostatnie-godziny-przed-starciem-z-irlandia-na-zywo" title="Milik przed meczem zaapelowa³ do kibiców" data-st-mtype="0"><img width="332" height="329" src="http://y.wpimg.pl/i/ivar/G/201510/1619612253--523611416.jpg" alt="" /><h2>Milik przed meczem zaapelowa³ do kibiców</h2></a></div>	</div>
+				<script>
+	    (function($){if(!$(".sec.start .wideCol").length){return}var getUrlParam=function(paramName){var regEx=new RegExp("[?&]"+paramName+"=([^&#]*)"),currSearchUrl=document.location.search,resultsArray=currSearchUrl.match(regEx);if(resultsArray){return resultsArray[1]}return false},USN="sgFirst_adHoc",USC="background: #009911; color: #FFF;",sgfirst=getUrlParam("sgfirst"),wid=getUrlParam("wid"),gid=getUrlParam("gid"),service=getUrlParam("service"),ajaxUrl="http://www.wp.pl/sgfirst.html",ajaxData="hash="+sgfirst,hideLead=true;if(window.Utils&&Utils.setStyle){Utils.setStyle(USN,USC)}if(!sgfirst&&!wid&&!gid){Utils.log(USN,"Can't find any sgFirst param in URL");return}if(wid||gid){if(!service){Utils.log(USN,"Can't find service param in URL");return}hideLead=true;if(wid){ajaxData="wid="+wid;ajaxUrl="http://"+service+"/sgfirst_article.json"}else{ajaxData="gid="+gid;ajaxUrl="http://"+service+"/sgfirst_gallery.json"}}Utils.log(USN,"ajaxData: "+ajaxData+", ajaxUrl: "+ajaxUrl);$.ajax({url:ajaxUrl,data:ajaxData,dataType:"jsonp",jsonp:false,jsonpCallback:"jsFunction",success:function(r){Utils.log(USN,"Request finished with success, your return:");Utils.log(USN,r.data);if(r.error){return}if(hideLead){r.data.LEAD=""}$(".sec.start .wideCol:first").before('<div class="sgFirstContainer" data-st-area="Glonews-glowny-sgfirst"><a href="'+r.data.DESTINATION_URL+'" title="'+r.data.TITLE+'"><img src="'+r.data.IMAGE_URL+'" width="680" height="329" alt=""><div class="detCol"><div class="detColIn"><div class="sgfPreHeader">ZOBACZ:</div><h2>'+r.data.TITLE+"</h2><p>"+r.data.LEAD+"</p></div></div></a></div>")}});return}(WP.$));
+	</script>
+			<div class="leftCol">
+		    	<div data-st-area="Glonews-lewa" class="narArts">
+	    <ul>
+	    <li ><a title="Prasa ujawnia ¿¹dania Camerona wobec Brukseli" href="http://wiadomosci.wp.pl/kat,1356,title,Prasa-ujawnia-postulaty-Davida-Camerona-wobec-Brukseli,wid,17902566,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" src="http://y.wpimg.pl/i/ivar/G/201510/813189750--889145567.jpg" alt="" /></div><h2>Prasa ujawnia ¿¹dania Camerona wobec Brukseli</h2></a></li><li ><a title="Kanye West prezydentem? Barack Obama ma dla niego trzy rady" href="http://wiadomosci.wp.pl/kat,1356,title,Barack-Obama-udzielil-rad-Kanye-Westowi,wid,17902565,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" src="http://y.wpimg.pl/i/ivar/G/201510/614552702-356989363.jpg" alt="" /></div><h2>Kanye West prezydentem? Barack Obama ma dla niego trzy rady</h2></a></li><li ><a title="Organizator swoje, UEFA swoje. Jest decyzja ws. dachu Narodowego" href="http://sportowefakty.wp.pl/pilka-nozna/552958/el-euro-2016-polska-irlandia-przy-otwartym-dachu" data-st-mtype="0"><div class="crop"><img width="158" height="91" src="http://y.wpimg.pl/i/ivar/G/201510/162504991--879584662.jpg" alt="" /></div><h2>Organizator swoje, UEFA swoje. Jest decyzja ws. dachu Narodowego</h2></a></li><li ><a title="Kto pokocha ch³opaka na wózku? Portale randkowe dla niepe³nosprawnych" href="http://wiadomosci.wp.pl/kat,1342,title,Swojej-drugiej-polowki-w-internecie-szukaja-tez-osoby-niepelnosprawne,wid,17897475,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" src="http://y.wpimg.pl/i/ivar/G/201510/1157692446--1816707540.jpg" alt="" /></div><h2>Kto pokocha ch³opaka na wózku? Portale randkowe dla niepe³nosprawnych</h2></a></li><li ><a title="GOPR apeluje do turystów: to mo¿e ocaliæ wam ¿ycie" href="http://pogoda.wp.pl/kat,1342,title,GOPR-apeluje-idziecie-w-gory-sciagnijcie-sobie-aplikacje-Ratunek,wid,17902176,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" src="http://y.wpimg.pl/i/ivar/G/201510/727216735-2000622639.jpeg" alt="" /></div><h2>GOPR apeluje do turystów: to mo¿e ocaliæ wam ¿ycie</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Glonews-mozaika">
+	    <ul>
+		<li class="autor"><div class="sArt "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/wybory-parlamentarne-2015-dla-doradcow-i,227,0,1920483.html" title="W godzinê zarabiaj¹ tyle, co ty w miesi¹c. Politycy p³ac¹ bez mrugniêcia okiem" data-st-mtype="0"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/2112168526-1977423847.jpg" alt="" /><h3 data-autor="Krzysztof Janoœ">W godzinê zarabiaj¹ tyle, co ty w miesi¹c. Politycy p³ac¹ bez mrugniêcia okiem</h3></a></div></li><li ><div class="sArt "><a href="http://sportowefakty.wp.pl/siatkowka/552919/me-2015-gr-c-bialorus-ostatnia-przeszkoda-na-drodze-do-cwiercfinalu" title="ME: ostatnia przeszkoda Polaków na drodze do æwieræfina³u" data-st-mtype="0"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/953315478--2062001579.jpg" alt="" /><h3>ME: ostatnia przeszkoda Polaków na drodze do æwieræfina³u</h3></a></div></li><li class="autor"><div class="sArt "><a href="http://wiadomosci.wp.pl/kat,1342,title,Wodka-leje-sie-na-komendzie-Policja-walczy-z-alkoholizmem-w-szeregach,wid,17899777,wiadomosc.html" title="Wódka leje siê w komendzie? Policja walczy z alkoholizmem w swoich szeregach" data-st-mtype="1"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/1520251019-606936298.jpg" alt="" /><h3 data-autor="Arkadiusz Jastrzêbski">Wódka leje siê w komendzie? Policja walczy z alkoholizmem w swoich szeregach</h3></a></div></li><li class="autor"><div class="sArt "><a href="http://sportowefakty.wp.pl/pilka-nozna/552918/irlandia-na-drodze-do-szczescia-czas-na-piekna-historie" title="Irlandia na drodze do szczêœcia. Pokerowa zagrywka Nawa³ki na konferencji?" data-st-mtype="0"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/2010929433-1406580600.jpg" alt="" /><h3 data-autor="Jacek Stañczyk">Irlandia na drodze do szczêœcia. Pokerowa zagrywka Nawa³ki na konferencji?</h3></a></div></li><li ><div class="sArt dbl wideo"><a href="http://wp.tv/i,spokojny-sport-pelen-ekstremalnych-doznan,mid,1800052,cid,5050,klip.html" title="Przyjrzyj siê dobrze. Odbiera mowê, gdy rozumie siê, co naprawdê widaæ na tym zdjêciu" data-st-mtype="3"><img width="332" height="398" src="http://y.wpimg.pl/i/ivar/G/201510/1444557372_a.jpg" alt="" /><h3>Przyjrzyj siê dobrze. Odbiera mowê, gdy rozumie siê, co naprawdê widaæ na tym zdjêciu</h3></a></div></li><li class="autor"><div class="sArt "><a href="http://wiadomosci.wp.pl/kat,140716,title,Sondaz-inny-niz-wszystkie-Kopacz-nie-kojarzy-sie-z-PO-a-najwieksza-sila-PiS-jest-prezydent,wid,17900890,wiadomosc.html" title="Sonda¿ inny ni¿ wszystkie. Internauci bezwzglêdni dla Kopacz i Szyd³o" data-st-mtype="1"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/1877760992--1320843436.jpg" alt="" /><h3 data-autor="Kacper Œwis³owski">Sonda¿ inny ni¿ wszystkie. Internauci bezwzglêdni dla Kopacz i Szyd³o</h3></a></div></li><li ><div class="sArt "><a href="http://turystyka.wp.pl/title,Gdzie-na-snowboard-i-narty-Trendy-na-zime-20152016,wid,17891995,wiadomosc.html" title="Nie ma w¹tpliwoœci. To bêdzie hit najbli¿szych miesiêcy" data-st-mtype="1"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/1932435291-482974435.jpg" alt="" /><h3>Nie ma w¹tpliwoœci. To bêdzie hit najbli¿szych miesiêcy</h3></a></div></li><li ><div class="sArt "><a href="http://sportowybar.wp.pl/kat,1041241,title,Piekna-historia-pilkarza-Ekstraklasy-i-malego-kibica,wid,17902558,wiadomosc.html" title="Wzruszaj¹ca historia m³odego kibica z Gliwic. Do szko³y przyjecha³ jego idol" data-st-mtype="1"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/891032823-1874762078.jpg" alt="" /><h3>Wzruszaj¹ca historia m³odego kibica z Gliwic. Do szko³y przyjecha³ jego idol</h3></a></div></li><li ><div class="sArt "><a href="http://film.wp.pl/idGallery,16808,idPhoto,438556,galeria.html?ticaid=115bdf&amp;_ticrsn=3" title="Medialna nagonka doprowadzi³a do smutnego koñca. Mieli dosyæ" data-st-mtype="2"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/861256224--1982895680.jpg" alt="" /><h3>Medialna nagonka doprowadzi³a do smutnego koñca. Mieli dosyæ</h3></a></div></li>	    </ul>
+	</div>
+			    </div>
+	    	<div class="txtArts" data-st-area="Wiadomosci">
+	    <div class="bxPogodaWidget" data-st-area="Pogoda"></div>
+	    <ul class="text-links" data-st-area="Wiadomosci-prawa">
+		<li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,Ewa-Kopacz-odniosla-sie-do-restauracji-ktora-otworzyl-PiS,wid,17902759,wiadomosc.html" title="Premier o. &quot;restauracji&quot; Ewa i Przyjaciele. &quot;Dlaczego œwiêci s¹ tylko w PiS?&quot;" data-st-mtype="1"><img width="87" height="69" src="http://y.wpimg.pl/i/ivar/G/201510/370437981--274056888.jpeg" alt="" /><span class="inf">33 min.</span><h3>Premier o. &quot;restauracji&quot; Ewa i Przyjaciele. &quot;Dlaczego œwiêci s¹ tylko w PiS?&quot;</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Brytyjskie-samoloty-beda-uzbrojone-na-wypadek-starcia-z-Rosjanami,wid,17902615,wiadomosc.html" title="Brytyjczycy bêd¹ przygotowani do walki z Rosj¹" data-st-mtype="1"><span class="inf">2 godz.</span><h3>Brytyjczycy bêd¹ przygotowani do walki z Rosj¹</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Ukraina-w-Doniecku-ostrzelano-siedzibe-lidera-separatystow,wid,17902690,wiadomosc.html" title="Donieck: ostrzelano bazê lidera separatystów " data-st-mtype="1"><span class="inf">33 min.</span><h3>Donieck: ostrzelano bazê lidera separatystów </h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,Beata-Szydlo-za-rzadow-PO-PSL-jedna-afera-gonila-druga,wid,17902207,wiadomosc.html" title="PiS otworzy³o &quot;restauracjê&quot;. Przypomina afery PO" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>PiS otworzy³o &quot;restauracjê&quot;. Przypomina afery PO</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Irackie-lotnictwo-ostrzelalo-konwoj-Panstwa-Islamskiego,wid,17902610,wiadomosc.html" title="Irackie lotnictwo ostrzela³o konwój IS" data-st-mtype="1"><span class="inf">2 godz.</span><h3>Irackie lotnictwo ostrzela³o konwój IS</h3></a></li><li class=" "><a href="http://pogoda.wp.pl/gid,17901979,kat,1035571,title,Niski-poziom-wody-w-Zalewie-Solinskim,galeria.html" title="Katastrofalny poziom wody w Zalewie Soliñskim" data-st-mtype="2"><span class="inf">1 godz.</span><h3>Katastrofalny poziom wody w Zalewie Soliñskim</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019403,title,Barbara-Nowacka-potrzebny-zrownowazony-rozwoj-regionow,wid,17902752,wiadomosc.html" title="Nowacka: to trzeba zrobiæ, by zatrzymaæ ludzi " data-st-mtype="1"><span class="inf">33 min.</span><h3>Nowacka: to trzeba zrobiæ, by zatrzymaæ ludzi </h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Alaksandr-Lukaszenka-jestem-gotow-na-wszelkie-reformy,wid,17902502,wiadomosc.html" title="£ukaszenka: nie omawia³em tego z Putinem" data-st-mtype="1"><span class="inf">3 godz.</span><h3>£ukaszenka: nie omawia³em tego z Putinem</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Waler-Karbalewicz-wybory-przypominaja-radziecki-rytual,wid,17902715,wiadomosc.html" title="Ekspert skrytykowa³ wybory na Bia³orusi" data-st-mtype="1"><span class="inf">33 min.</span><h3>Ekspert skrytykowa³ wybory na Bia³orusi</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,Ryszard-Petru-proponowane-przez-PiS-zmiany-w-podatkach-utrudnia-zycie-przedsiebiorcom,wid,17902629,wiadomosc.html" title="Petru: propozycje PiS uderz¹ w najbiedniejszych" data-st-mtype="1"><span class="inf">1 godz.</span><h3>Petru: propozycje PiS uderz¹ w najbiedniejszych</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1329,title,Wojciech-Kolarski-dla-Do-Rzeczy-Czas-na-polityke-historyczna,wid,17900383,wiadomosc.html" title="Czas na politykê historyczn¹?" data-st-mtype="1"><span class="inf">2 godz.</span><h3>Czas na politykê historyczn¹?</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,Stanislaw-Zelichowski-prokuratura-przekazala-PiS-informacje-o-planowanych-aresztowaniach,wid,17902250,wiadomosc.html" title="¯elichowski: prokuratura da³a sygna³ PiS" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>¯elichowski: prokuratura da³a sygna³ PiS</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019389,title,Trzech-wiezniow-ucieklo-z-wiezienia-w-Grudziadzu-Trwa-oblawa,wid,17901976,wiadomosc.html" title="Trzy osoby uciek³y z wiêzienia w Grudzi¹dzu" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Trzy osoby uciek³y z wiêzienia w Grudzi¹dzu</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1356,title,Turcja-wedlug-HDP-w-zamachu-w-Ankarze-zginelo-128-osob,wid,17902419,wiadomosc.html" title="HDP: w zamachu w Ankarze zginê³o 128 osób" data-st-mtype="1"><span class="inf">3 godz.</span><h3>HDP: w zamachu w Ankarze zginê³o 128 osób</h3></a></li>	    </ul>
+	    <div id="bxMiastoWidget" class="miasto" data-st-area="Wiadomosci-lokalne">
+			<header>
+	    <a href="http://wiadomosci.wp.pl/kat,1019393,wiadomosci_lokalne.html" class="cityName" data-id="43116">Warszawa</a>
+	    <div class="listaMiast">
+		<a href="#" data-id="0" title="Opinie">Opinie</a><a href="#" data-id="43866" title="Katowice">Katowice</a><a href="#" data-id="43289" title="Kraków">Kraków</a><a href="#" data-id="43384" title="Poznañ">Poznañ</a><a href="#" data-id="43935" title="Trójmiasto">Trójmiasto</a><a href="#" data-id="43116" title="Warszawa">Warszawa</a><a href="#" data-id="43763" title="Wroc³aw">Wroc³aw</a>	    </div>
+	</header>
+		<div class="dane" data-id="0">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1329,title,Pawel-Lisicki-kultura-transgresji-czyli-przypadek-ks-Charamsy,wid,17892773,wiadomosc.html" title="Lisicki: &quot;homoseksualne lobby&quot; w Watykanie" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Lisicki: &quot;homoseksualne lobby&quot; w Watykanie</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,141202,title,Jacek-Zakowski-o-sprawie-Charamsy-ksieza-maja-tez-inne-potrzeby,wid,17889887,wiadomosc.html" title="¯akowski: ksiê¿a maj¹ te¿ inne potrzeby" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>¯akowski: ksiê¿a maj¹ te¿ inne potrzeby</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,141202,title,Filip-Springer-wynajem-czy-mieszkanie-na-kredyt-Uposledzona-alternatywa,wid,17887305,wiadomosc.html" title="Springer: wynajem czy mieszkanie na kredyt?" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Springer: wynajem czy mieszkanie na kredyt?</h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43866">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1019409,title,Samorzady-o-uchodzcach-pomozemy-ale-konieczne-wsparcie,wid,17880565,wiadomosc.html" title="Samorz¹dy: pomo¿emy, ale konieczne wsparcie" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Samorz¹dy: pomo¿emy, ale konieczne wsparcie</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019409,title,Gliwicka-prokuratura-apeluje-ws-handlu-koscielna-ziemia-Bedzie-kolejny-proces,wid,17898949,wiadomosc.html" title="Kolejny proces ws. handlu koœcieln¹ ziemi¹?" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Kolejny proces ws. handlu koœcieln¹ ziemi¹?</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019409,title,Swiat-japonskich-rycerzy-na-wystawie-w-Muzeum-w-Gliwicach,wid,17894196,wiadomosc.html" title="Niezwyk³a wystawa. Œwiat japoñskich rycerzy" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Niezwyk³a wystawa. Œwiat japoñskich rycerzy</h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43289">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1019401,title,Jak-skutecznie-chronic-sie-przed-smogiem-Podziemia-Wieliczki-recepta-na-astme-i-choroby-pluc,wid,17899001,wiadomosc.html" title="&quot;Wieliczka&quot; recept¹ na astmê i choroby p³uc?" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>&quot;Wieliczka&quot; recept¹ na astmê i choroby p³uc?</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019401,title,Znalezli-ponad-100-letni-list-podczas-remontu-koscielnej-wiezy-w-Krakowie,wid,17893766,wiadomosc.html" title="ZnaleŸli ponad 100-letni list w butelce" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>ZnaleŸli ponad 100-letni list w butelce</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019401,title,Zakaz-palenia-weglem-w-Krakowie-od-2019-roku-To-pewne,wid,17899162,wiadomosc.html" title="Zakaz palenia wêglem w Krakowie od 2019 r." data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Zakaz palenia wêglem w Krakowie od 2019 r.</h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43384">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1019407,title,Coming-out-ksiedza-z-Poznania-Jestem-heteroseksualny,wid,17891775,wiadomosc.html" title="Niezwyk³y &quot;coming out&quot; ksiêdza z Poznania" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Niezwyk³y &quot;coming out&quot; ksiêdza z Poznania<WP/></h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019407,title,Uczniowie-z-Opalenicy-uratowali-zycie-mezczyznie-Reanimacji-nauczyli-sie-w-szkole,wid,17893798,wiadomosc.html" title="Uczniowie uratowali ¿ycie. &quot;Jesteœmy dumni&quot;" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Uczniowie uratowali ¿ycie. &quot;Jesteœmy dumni&quot;</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019407,title,Szkola-baletowa-w-Poznaniu-uratowana-ministerstwo-zaplaci-kurii-115-mln-zl,wid,17889627,wiadomosc.html" title="Ministerstwo kupi szko³ê od kurii za 11,5 mln z³" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Ministerstwo kupi szko³ê od kurii za 11,5 mln z³</h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43935">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1019379,title,Co-mozna-zrobic-ze-starych-slupow-trakcyjnych-i-desek-W-Gdansku-stanely-ekomeble,wid,17898904,wiadomosc.html" title="W gdañskim Œródmieœciu stanê³y ekomeble" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>W gdañskim Œródmieœciu stanê³y ekomeble</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,W-Polsce-jest-ponad-100-tys-osob-uzaleznionych-od-narkotykow,wid,17898482,wiadomosc.html" title="Ponad 100 tys. Polaków uzale¿nionych" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Ponad 100 tys. Polaków uzale¿nionych<WP/></h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019379,title,Nowatorski-pomysl-gdanskich-naukowcow-ulatwi-przyjmowanie-lekow-przez-chorych,wid,17891393,wiadomosc.html" title="Nowatorski wynalazek dla pacjentów " data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Nowatorski wynalazek dla pacjentów <WP/></h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43116">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1019393,title,Ruszyl-przetarg-na-odcinek-autostrady-A2-z-Warszawy-w-kierunku-Minska-Mazowieckiego,wid,17896854,wiadomosc.html" title="Ruszy³ przetarg na odcinek A2 z Warszawy" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Ruszy³ przetarg na odcinek A2 z Warszawy</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019393,title,Prestizowy-grant-ERC-dla-dr-Marka-Cygana-z-Uniwersytetu-Warszawskiego,wid,17896202,wiadomosc.html" title="Presti¿owy grant dla naukowca z UW" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Presti¿owy grant dla naukowca z UW</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019393,title,3-miliony-mieszkancow-w-Warszawie-Ponad-polowa-z-nich-to-przyjezdni,wid,17889871,wiadomosc.html" title="3 miliony mieszkañców w Warszawie?" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>3 miliony mieszkañców w Warszawie?</h3></a></li>		</ul>
+	    </div>
+	</div>
+		<div class="dane" data-id="43763">
+	    <div class="miastoArts">
+		<ul class="text-links kolejny">
+		    <li class=" "><a href="http://wiadomosci.wp.pl/kat,1342,title,Czy-perly-kampanii-pomagaja-kandydatom-zdobyc-poparcie,wid,17896914,wiadomosc.html" title="Kandydaci z &quot;odlotow¹&quot; kampani¹. Zobacz" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Kandydaci z &quot;odlotow¹&quot; kampani¹. Zobacz</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019397,title,Wroclaw-Bogdan-Zdrojewski-z-doktoratem-honoris-causa-ASP,wid,17893789,wiadomosc.html" title="Bogdan Zdrojewski uhonorowany przez ASP" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Bogdan Zdrojewski uhonorowany przez ASP</h3></a></li><li class=" "><a href="http://wiadomosci.wp.pl/kat,1019397,title,Dolny-Slask-samorzadowcy-deklaruja-wspolprace-przy-tworzeniu-kolei-aglomeracyjnej,wid,17899105,wiadomosc.html" title="Co dalej kolej¹ aglomeracyjn¹ na Dolnym Œl¹sku?" data-st-mtype="1"><span class="inf">wa¿ne</span><h3>Co dalej kolej¹ aglomeracyjn¹ na Dolnym Œl¹sku?</h3></a></li>		</ul>
+	    </div>
+	</div>
+		    </div>
+	    <em><em><cite><var></var></cite></em></em>	    <div id="dynAdv11"><div id="adv11"><script type="text/javascript">NPB("011");</script></div></div>
+	    <ul class="boksyGlowne" data-st-area="Glonews-mozaika-prawa">
+		<li ><div class="sArt "><a href="http://kobieta.wp.pl/kat,65524,title,Statek-milosci-Nieznana-historia-slynnego-Batorego,wid,17901861,wiadomosc.html" title="Skandale i romanse na Batorym. Tymi historiami ¿y³a wtedy ca³a Polska " data-st-mtype="1"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/229812452--1323063419.jpg" alt="" /><h3>Skandale i romanse na Batorym. Tymi historiami ¿y³a wtedy ca³a Polska </h3></a></div></li><li ><div class="sArt "><a href="http://gwiazdy.wp.pl/galeria/5916891929293953/ksiezna-kate-czy-nie-jest-za-chuda.html" title="Wychudzona ksiê¿na Kate. Co siê z ni¹ dzieje?" data-st-mtype="0"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/248406000-1363383533.jpg" alt="" /><h3>Wychudzona ksiê¿na Kate. Co siê z ni¹ dzieje?</h3></a></div></li><li ><div class="sArt "><a href="http://gwiazdy.wp.pl/galeria/5916910986121857/jim-carrey-zlozyl-hold-zmarlej-partnerce.html" title="Jim Carrey z³o¿y³ ho³d zmar³ej partnerce" data-st-mtype="0"><img width="332" height="191" src="http://y.wpimg.pl/i/ivar/G/201510/1461197059-836607664.jpg" alt="" /><h3>Jim Carrey z³o¿y³ ho³d zmar³ej partnerce</h3></a></div></li>	    </ul>
+	</div>
+		</section>
+		<script type="text/javascript">
+	    function OnScrollLogger(domObj, linksStr, genId, model, c, svid, statid) {
+		this.w = WP.$(window);
+		this.fired = false;
+		this.elm = WP.$(domObj);
+		this.msg = 'srv='+String(window.wp_sn)
+				    +'&par=' + escape(
+					linksStr
+					+'&generationid='+genId
+					+'&model='+model
+					+'&case='+c
+					+'&svid='+svid
+					+'&statid='+statid
+				    )
+				    + '&action=scroll';
+
+		this.log = function() {
+		    var cp = 0;
+		    var self = this;
+		    this.w.on('scroll', function() {
+			gifPos = self.elm.offset().top+self.elm.height();
+			cp = parseInt(self.w.scrollTop()) + parseInt(window.innerHeight);
+			if (cp > gifPos && self.fired === false) {
+			    self.fired = true;
+			    WP.stat.eventShow(self.msg);
+			}
+		    });
+		}
+		this.log();
+		return this;
+	    }
+	</script>
+		<script type="text/javascript">
+	    var Req1 = new OnScrollLogger("[data-st-area=Glonews-mozaika] li:eq(5)", 'kafel2=http%3A%2F%2Fwiadomosci.wp.pl%2Fkat%2C140716%2Ctitle%2CSondaz-inny-niz-wszystkie-Kopacz-nie-kojarzy-sie-z-PO-a-najwieksza-sila-PiS-jest-prezydent%2Cwid%2C17900890%2Cwiadomosc.html&kafel3=http%3A%2F%2Fkobieta.wp.pl%2Fkat%2C65524%2Ctitle%2CStatek-milosci-Nieznana-historia-slynnego-Batorego%2Cwid%2C17901861%2Cwiadomosc.html', '20151011165104', 'Links:Original:Original', 1, '89c3f25175307983a185d', '5efbded33c99527f80a92c025fcdbdf3:5050ba:1443794971:v3');
+	    var Req2 = new OnScrollLogger("[data-st-area=Glonews-mozaika] li:eq(6)", 'kafel4=http%3A%2F%2Fturystyka.wp.pl%2Ftitle%2CGdzie-na-snowboard-i-narty-Trendy-na-zime-20152016%2Cwid%2C17891995%2Cwiadomosc.html&kafel5=http%3A%2F%2Fgwiazdy.wp.pl%2Fgaleria%2F5916891929293953%2Fksiezna-kate-czy-nie-jest-za-chuda.html', '20151011165104', 'Links:Original:Original', 2, '89c3f25175307983a185d', '5efbded33c99527f80a92c025fcdbdf3:5050ba:1443794971:v3');
+	    var Req3 = new OnScrollLogger("[data-st-area=Glonews-mozaika] li:eq(8)", 'kafel6=http%3A%2F%2Fsportowybar.wp.pl%2Fkat%2C1041241%2Ctitle%2CPiekna-historia-pilkarza-Ekstraklasy-i-malego-kibica%2Cwid%2C17902558%2Cwiadomosc.html&kafel7=http%3A%2F%2Ffilm.wp.pl%2FidGallery%2C16808%2CidPhoto%2C438556%2Cgaleria.html%3Fticaid%3D115bdf%26_ticrsn%3D3&kafel8=http%3A%2F%2Fgwiazdy.wp.pl%2Fgaleria%2F5916910986121857%2Fjim-carrey-zlozyl-hold-zmarlej-partnerce.html', '20151011165104', 'Links:Original:Original', 3, '89c3f25175307983a185d', '5efbded33c99527f80a92c025fcdbdf3:5050ba:1443794971:v3');
+        </script>
+	      <section class="sec o2Trendy" data-st-area="02belka_mid">
+      	<div class="o2Trendy__wrap">
+              		<header class="o2__header">
+    			<a href="http://o2.pl" target="_blank">
+    				<span class="o2__logo">o2</span>
+    				<span class="o2__trendy">trendy:</span>
+    				<span class="o2__link">Otwórz</span>
+    			</a>
+    		</header>
+            		<main class="o2__teasers">
+      			        <article class="o2__teaser">
+          <a href="http://o2.pl/hot/title-5916934064411777g">
+            <figure class="o2teaser__left">
+                            <figcaption class="o2teaser__category o2teaser__category--zdrowie">Zdrowie</figcaption>
+              <img class="o2teaser__image" src="http://i.wpimg.pl/166x112/d.wpimg.pl/1905856912--1668180160/podbial-pospolity-fiolek.jpg">
+            </figure>
+            <div class="o2teaser__right">
+                            <header class="o2teaser__title">#urodowytematdnia Oto 5 zapomnianych zió³</header>
+                            <aside class="o2teaser__additional">
+                <div class="o2teaser__users">199</div>
+                                <div class="o2teaser__graph" data-graph="0,18,321,271,450,309,99,199">
+                  <svg class="o2graph">
+                </div>
+                              </aside>
+            </div>
+          </a>
+        </article>
+              <article class="o2__teaser">
+          <a href="http://o2.pl/hot/title-5916914601140865a">
+            <figure class="o2teaser__left">
+                            <figcaption class="o2teaser__category o2teaser__category--zdrowie">Zdrowie</figcaption>
+              <img class="o2teaser__image" src="http://i.wpimg.pl/166x112/d.wpimg.pl/1821961112--727578792/coca-cola-coca-cola-life.jpg">
+            </figure>
+            <div class="o2teaser__right">
+                            <header class="o2teaser__title">Wielka pora¿ka Coca-Coli</header>
+                            <aside class="o2teaser__additional">
+                <div class="o2teaser__users">646</div>
+                                <div class="o2teaser__graph" data-graph="0,55,32,426,384,295,379,646">
+                  <svg class="o2graph">
+                </div>
+                              </aside>
+            </div>
+          </a>
+        </article>
+              <article class="o2__teaser">
+          <a href="http://o2.pl/quiz/5916229711307905/start">
+            <figure class="o2teaser__left">
+                            <figcaption class="o2teaser__category o2teaser__category--quiz">quiz</figcaption>
+              <img class="o2teaser__image" src="http://i.wpimg.pl/166x112/d.wpimg.pl/100812503-1539949421/power-motorcycles.jpg">
+            </figure>
+            <div class="o2teaser__right">
+                            <header class="o2teaser__title">Znasz historiê poczty? To nie jest ³atwy test!</header>
+                            <aside class="o2teaser__additional">
+                <div class="o2teaser__users">101</div>
+                                <div class="o2teaser__graph" data-graph="0,11,78,273,93,68,239,101">
+                  <svg class="o2graph">
+                </div>
+                              </aside>
+            </div>
+          </a>
+        </article>
+            		</main>
+      	</div>
+      </section>
+      <em><em><var><var></var></var></em></em><div id="dynAdv15"><div id="adv15"><script type="text/javascript">NPB("015");</script></div></div>	<section class="sec sport" data-st-area="Sport">
+		<header class="header" data-st-area="Sport-naglowek">
+	    <div class="header--content">
+		    <h2 class="header--text">
+				<a href="http://sportowefakty.wp.pl">Sportowefakty</a>
+		    </h2>
+		<nav>
+			<a href="http://sportowefakty.wp.pl/pilka-nozna">Pi³ka no¿na</a>
+			<a href="http://sportowefakty.wp.pl/siatkowka">Siatkówka</a>
+			<a href="http://sportowefakty.wp.pl/zuzel">¯u¿el</a>
+			<a href="http://sportowefakty.wp.pl/sporty-walki">Sporty walki</a>
+			<a href="http://sportowefakty.wp.pl/koszykowka">Koszykówka</a>
+			<a class="hidenarrow" href="http://sportowefakty.wp.pl/pilka-reczna">Pi³ka rêczna</a>
+			<a class="hidenarrow" href="http://sportowefakty.wp.pl/tenis">Tenis</a>
+			<a class="hidenarrow" href="http://sportowybar.wp.pl">SportowyBar</a>
+		</nav>
+	    </div>
+	</header>
+		    <div class="wideCol">
+		<div class="leftCol">
+		    	<div class="narArts ABlewa_2" data-st-area="Sport-lewa">
+	    <ul class="MSVB">
+	    <li ><a title="Pi³karz z Sewilli randkuje z piêkn¹ modelk¹. To Miss Universe w swoim kraju" href="http://sportowybar.wp.pl/gid,17902278,kat,1041241,title,Pilkarz-z-Sewilli-randkuje-z-seksowna-miss,galeria.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/129973096-818429580.jpg" alt="" /></div><h2>Pi³karz z Sewilli randkuje z piêkn¹ modelk¹. To Miss Universe w swoim kraju</h2></a></li><li ><a title="Gortat pochwali³ siê zdjêciem z Bieberem. Rozmawiali o meczu Polska-Irlandia?" href="http://sportowybar.wp.pl/kat,1041241,title,Marcin-Gortat-pokazal-zdjecie-z-Justinem-Bieberem,wid,17902377,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/827205659-200177978.jpg" alt="" /></div><h2>Gortat pochwali³ siê zdjêciem z Bieberem. Rozmawiali o meczu Polska-Irlandia?</h2></a></li><li ><a title="Tak siê bawi najlepszy sportowiec œwiata: imprezy do bia³ego rana, kobiety, wyg³upy" href="http://sportowybar.wp.pl/gid,17895313,kat,1041241,title,Imprezy-kobiety-wyglupy-Zobacz-jak-bawi-sie-Bolt,galeria.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/617048272-2132085307.jpg" alt="" /></div><h2>Tak siê bawi najlepszy sportowiec œwiata: imprezy do bia³ego rana, kobiety, wyg³upy</h2></a></li>	    </ul>
+	</div>
+			</div>
+			    <div class="mainArts" data-st-area="Sport-mozaika">
+		<ul>
+		<li ><div class="sArt  dbl "><a href="http://sportowefakty.wp.pl/siatkowka/552988/thomas-koelewijn-dowiedzielismy-sie-ze-niemcy-nie-chca-wygrac-tego-meczu" title="&quot;Dowiedzieliœmy siê, ¿e Niemcy nie chc¹ wygraæ tego meczu&quot; - Holender wk³ada kij w mrowisko" data-st-mtype="0"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/1597217321-422355075.jpg" alt="" /><h3>&quot;Dowiedzieliœmy siê, ¿e Niemcy nie chc¹ wygraæ tego meczu&quot; - Holender wk³ada kij w mrowisko</h3></a></div></li><li ><div class="sArt  "><a href="http://sportowefakty.wp.pl/pilka-nozna/552859/polska-irlandia-do-swietowania-jeden-krok" title="Co musi siê staæ, aby Polska awansowa³a do Euro 2016?" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/349436081-1274400365.jpg" alt="" /><h3>Co musi siê staæ, aby Polska awansowa³a do Euro 2016?</h3></a></div></li><li  class="tylko-w-wp"><div class="sArt  "><a href="http://sportowefakty.wp.pl/pilka-nozna/552971/jan-tomaszewski-robert-lewandowski-jest-stworzony-do-zdobywania-goli" title="Jan Tomaszewski: Lewandowski to najlepszy &quot;padliniarz&quot; œwiata" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1797216931--1307841825.jpg" alt="" /><h3>Jan Tomaszewski: Lewandowski to najlepszy &quot;padliniarz&quot; œwiata<WP/></h3></a></div></li><li  class="tylko-w-wp"><div class="sArt  "><a href="http://sportowefakty.wp.pl/siatkowka/wideo/18389/michal-kubiak-prosi-dziennikarzy-zeby-nie-przypominali-o-zmeczeniu" title="Kubiak do dziennikarzy po meczu: mam do pañstwa proœbê" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/2090865543-962724958.jpg" alt="" /><h3>Kubiak do dziennikarzy po meczu: mam do pañstwa proœbê<WP/></h3></a></div></li><li ><div class="sArt  "><a href="http://sportowefakty.wp.pl/pilka-reczna/552955/zagraniczne-media-o-meczu-wisla-kiel-niespodziewanie-sroga-lekcja-od-zebr" title="Polacy zbici, Niemcy triumfuj¹: kocio³ uciszony, konsternacja" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/459274768-1220551268.jpg" alt="" /><h3>Polacy zbici, Niemcy triumfuj¹: kocio³ uciszony, konsternacja</h3></a></div></li>		</ul>
+	    </div>
+	    	    </div>
+	    	<div class="txtArts" data-st-area="Sport-prawa">
+	    <ul class="text-links" data-st-area="Sport-prawa">	
+	    <li class=" "><a href="http://sportowefakty.wp.pl/pilka-nozna/553005/sparingowo-zwycieski-debiut-stanislawa-czerczesowa" title="Zwyciêski debiut Czerczesowa w Legii" data-st-mtype="0"><img width="332" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201510/262535138-624222554.jpg" alt="" /><span class="inf">1 godz.</span><h3>Zwyciêski debiut Czerczesowa w Legii</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/pilka-nozna/wideo/18396/jerzy-dudek-pod-taka-presja-kadra-nawalki-jeszcze-nie-grala" title="Jerzy Dudek przed meczem z Irlandi¹" data-st-mtype="0"><span class="inf">1 godz.</span><h3>Jerzy Dudek przed meczem z Irlandi¹</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/pilka-nozna/wideo/18397/radoslaw-majdan-o-reprezentacji-irlandii-to-mur-przez-ktory-bardzo-trudno-sie-pr" title="Majdan: trudno bêdzie przebiæ ten mur" data-st-mtype="0"><span class="inf">1 godz.</span><h3>Majdan: trudno bêdzie przebiæ ten mur</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/tenis/553023/agnieszka-radwanska-zaluje-pilki-ktora-mogla-dac-mi-wyrownanie" title="Radwañska komentuje pora¿kê" data-st-mtype="0"><span class="inf">33 min.</span><h3>Radwañska komentuje pora¿kê</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/tenis/553025/garbine-muguruza-wycofala-sie-z-turnieju-w-hongkongu" title="Muguruza wycofa³a siê z turnieju w Hongkongu" data-st-mtype="0"><span class="inf">33 min.</span><h3>Muguruza wycofa³a siê z turnieju w Hongkongu</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/koszykowka/553007/swietny-debiut-waczynskiego-w-lidze-acb" title=" Œwietny debiut Polaka w Hiszpanii!" data-st-mtype="0"><span class="inf">1 godz.</span><h3> Œwietny debiut Polaka w Hiszpanii!</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/wyscigi-samochodowe/553027/gp3-piate-miejsce-w-soczi-najlepszym-wynikiem-sezonu-artura-janosza" title="GP3: 5. miejsce Artura Janosza" data-st-mtype="0"><span class="inf">33 min.</span><h3>GP3: 5. miejsce Artura Janosza</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/formula-1/553011/niesamowita-koncowka-w-gp-rosji-lewis-hamilton-zwycieski" title="F1: niesamowita koñcówka GP Rosji" data-st-mtype="0"><span class="inf">3 godz.</span><h3>F1: niesamowita koñcówka GP Rosji</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/rajdy-samochodowe/552995/kajetan-kajetanowicz-i-jaroslaw-baran-mistrzami-europy" title="Kajetanowicz i Baran mistrzami Europy!" data-st-mtype="0"><span class="inf">3 godz.</span><h3>Kajetanowicz i Baran mistrzami Europy!</h3></a></li>	    </ul>
+
+		<em><em><var><em></em></var></em></em>		<div id="dynAdv12"><div id="adv12"><script type="text/javascript">NPB("012");</script></div></div>
+
+	    	    <ul class="text-links kolejny" data-st-area="Sport-prawa">
+		<li class=" "><a href="http://sportowefakty.wp.pl/pilka-nozna/552999/diego-simeone-za-jose-mourinho-w-chelsea" title="Sensacyjny nastêpca Mourinho w Chelsea?" data-st-mtype="0"><span class="inf">2 godz.</span><h3>Sensacyjny nastêpca Mourinho w Chelsea?</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/tenis/553001/challenger-mohammedia-kamil-majchrzak-bez-tytulu-w-premierowym-finale" title="ATP: tytu³ nie dla Majchrzaka" data-st-mtype="0"><span class="inf">2 godz.</span><h3>ATP: tytu³ nie dla Majchrzaka</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/koszykowka/552985/marcin-gortat-74-w-rankingu-espn" title="Ranking zawodników NBA. Który Gortat?" data-st-mtype="0"><span class="inf">2 godz.</span><h3>Ranking zawodników NBA. Który Gortat?</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/tenis/553018/atp-pekin-rafael-nadal-bez-szans-novak-djokovic-szosty-raz-mistrzem-china-open" title="ATP: Nadal bez szans, tytu³ dla Djokovicia" data-st-mtype="0"><span class="inf">1 godz.</span><h3>ATP: Nadal bez szans, tytu³ dla Djokovicia</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/tenis/552977/wta-pekin-garbine-muguruza-z-tytulem-i-dwojka-w-singapurze" title="WTA: pogromczyni Radwañskiej z tytu³em" data-st-mtype="0"><span class="inf">3 godz.</span><h3>WTA: pogromczyni Radwañskiej z tytu³em</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/pilka-reczna/552924/szwedzi-pod-wrazeniem-gry-vive-tauronu-zagrali-fantastyczne-spotkanie" title="Szwedzi pod wra¿eniem gry Vive Tauronu" data-st-mtype="0"><span class="inf">1 godz.</span><h3>Szwedzi pod wra¿eniem gry Vive Tauronu</h3></a></li><li class=" "><a href="http://sportowefakty.wp.pl/pilka-nozna/552946/ronald-koeman-krytykuje-jose-mourinho-powinien-sie-uczyc-od-wengera" title="&quot;Mourinho powinien siê uczyæ od Wengera&quot;" data-st-mtype="0"><span class="inf">2 godz.</span><h3>&quot;Mourinho powinien siê uczyæ od Wengera&quot;</h3></a></li>	    </ul>	
+	</div>
+		</section>
+
+	<em><ins><em><em></em></em></ins></em><div id="dynAdv16"><div id="adv16"><script type="text/javascript">NPB("016");</script></div></div>	<section class="sec finanse" data-st-area="Finanse">
+	    	<header class="header" data-st-area="Finanse-naglowek">
+	    <div class="header--content">
+		<h2 class="header--text">
+		    <a href="http://www.money.pl">Finanse</a>
+		</h2>
+	    </div>
+	    <div id="bxFinanseWidget" class="ajax" data-st-area="Finanse-area"></div>	    <div class="wymWal">
+		<em><em><var><cite></cite></var></em></em>		<div id="dynAdv14"><div id="adv14"><script type="text/javascript">NPB("014");</script></div></div>
+	    </div>
+	</header>
+		    <div class="wideCol">
+		<div class="leftCol">
+		    	<div class="narArts ABlewa_2" data-st-area="Finanse-lewa">
+	    <ul>
+	    <li ><a title="Olbrzymie zainteresowanie tym debiutem. Nie tylko wœród inwestorów" href="http://www.biztok.pl/biznes/ferrari-wycenione-na-10-mld-dol-zbliza-sie-debiut-gieldowy-slynnego-producenta-samochodow-sportowych_a22465" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/145880318--2068167708.jpg" alt="" /></div><h2>Olbrzymie zainteresowanie tym debiutem. Nie tylko wœród inwestorów</h2></a></li><li ><a title="Firmy d³ugo czeka³y na to u³atwienie. Wa¿ne prawo na biurku prezydenta" href="http://msp.money.pl/wiadomosci/prawo/artykul/nowelizacja-ustawy-o-dzialalnosci,37,0,1924389.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1504036039-750428521.jpeg" alt="" /></div><h2>Firmy d³ugo czeka³y na to u³atwienie. Wa¿ne prawo na biurku prezydenta</h2></a></li><li ><a title="Dobra wiadomoœæ dla pasa¿erów. Nowe loty z lotniska w Krakowie " href="http://www.biztok.pl/biznes/najwazniejsze-europejskie-linie-lotnicze-obecne-w-krakow-airport_a22456" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/764423087-430101951.jpg" alt="" /></div><h2>Dobra wiadomoœæ dla pasa¿erów. Nowe loty z lotniska w Krakowie </h2></a></li><li ><a title="Niemiecki ekonomista ostrzega: s³ono zap³acimy za przyjêcie imigrantów" href="http://www.money.pl/gospodarka/unia-europejska/wiadomosci/artykul/imigranci-w-europie-niemcy-beda-musieli,77,0,1924173.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1150481557--1826121171.jpg" alt="" /></div><h2>Niemiecki ekonomista ostrzega: s³ono zap³acimy za przyjêcie imigrantów</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Finanse-mozaika">
+	    <ul>
+	    <li class="autor"><div class="sArt dbl fr "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/klotnia-kapicy-ze-zwiazkowcami-czy-padly,230,0,1925606.html" title="Wpadka ministra? Kapica chce nagrania" data-st-mtype="0"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/2032050052--1557787023.jpg" alt="" /><h3 data-autor="Sebastian Ogórek">Wpadka ministra? Kapica chce nagrania</h3></a></div></li><li ><div class="sArt "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/gazoport-w-swinoujsciu-padla-kulczowa-data,84,0,1925972.html" title="Gazoport w Œwinoujœciu gotowy! W poniedzia³ek otwarcie" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1726581058-1326800083.jpg" alt="" /><h3>Gazoport w Œwinoujœciu gotowy! W poniedzia³ek otwarcie</h3></a></div></li><li ><div class="sArt "><a href="http://finanse.wp.pl/kat,1033699,title,Opoznienia-w-wynagrodzeniach-Ile-Polacy-czekaja-na-zalegla-wyplate,wid,17898829,wiadomosc.html" title="Miliony Polaków tygodniami czekaj¹ na zaleg³¹ wyp³atê. Dlaczego?" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1821729860--965448765.jpg" alt="" /><h3>Miliony Polaków tygodniami czekaj¹ na zaleg³¹ wyp³atê. Dlaczego?</h3></a></div></li><li  class="tylko-w-wp"><div class="sArt "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/jaka-placa-dla-mlodych,69,0,1922885.html" title="1500 z³ na rêkê to za ma³o. Zobacz, ile chc¹ zarabiaæ m³odzi Polacy " data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/966874895--538528085.jpg" alt="" /><h3>1500 z³ na rêkê to za ma³o. Zobacz, ile chc¹ zarabiaæ m³odzi Polacy <WP/></h3></a></div></li><li class="autor"><div class="sArt "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/telemedycyna-w-polsce-opaska-pomoze-w-opiece,33,0,1923361.html" title="Niepozornie wygl¹daj¹ca bia³a opaska. Komu mo¿e pomóc?" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1283762056-411523368.jpg" alt="" /><h3 data-autor="Katarzyna Izdebska-Bia³ka">Niepozornie wygl¹daj¹ca bia³a opaska. Komu mo¿e pomóc?</h3></a></div></li><li ><div class="sArt "><a href="http://www.biztok.pl/638cf9bc8b08fcfcbc7a755a3dc1fb8695807ff8cd2f7fe6e50e1817_u22460" title="Przy nich bledn¹ uprawnienia Andrzeja Dudy" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/337453721-1031951485.jpeg" alt="" /><h3>Przy nich bledn¹ uprawnienia Andrzeja Dudy</h3></a></div></li><li ><div class="sArt "><a href="http://turystyka.wp.pl/title,Podroz-autokarem-a-odszkodowanie,wid,17891823,wiadomosc.html" title="Tylko nieliczni wiedz¹, ¿e przys³uguje za to odszkodowanie. Dowiedz siê, jak je uzyskaæ " data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/958291008--232550386.jpg" alt="" /><h3>Tylko nieliczni wiedz¹, ¿e przys³uguje za to odszkodowanie. Dowiedz siê, jak je uzyskaæ </h3></a></div></li>	    </ul>
+	</div>
+		    </div>
+	    	<div class="txtArts" data-st-area="Finanse-prawa">
+	    <ul class="text-links" data-st-area="Finanse-prawa">
+	    <li class=" "><a href="http://finanse.wp.pl/kat,1033725,title,Dla-handlowcow-praca-jest-od-reki,wid,17902662,wiadomosc.html" title="W tym zawodzie dostaniesz pracê niemal &quot;od rêki&quot;" data-st-mtype="1"><img width="332" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201510/1203926348--1664391783.jpg" alt="" /><span class="inf">1 godz.</span><h3>W tym zawodzie dostaniesz pracê niemal &quot;od rêki&quot;</h3></a></li><li class=" "><a href="http://finanse.wp.pl/kat,1033691,title,Rosnie-liczba-punktow-akceptujacych-karty-platnicze,wid,17902384,wiadomosc.html" title="Takich punktów w Polsce jest coraz wiêcej" data-st-mtype="1"><span class="inf">3 godz.</span><h3>Takich punktów w Polsce jest coraz wiêcej</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/oto-najbardziej-uinternetowione-w-polsce,11,0,1925899.html" title="&quot;Uinternetowione&quot; w Polsce województwa" data-st-mtype="0"><span class="inf">3 godz.</span><h3>&quot;Uinternetowione&quot; w Polsce województwa</h3></a></li><li class=" "><a href="http://finanse.wp.pl/kat,1033695,title,Ceny-nieruchomosci-na-Wegrzech-mocno-rosna,wid,17902685,wiadomosc.html" title="Rosn¹ ceny nieruchomoœci na Wêgrzech" data-st-mtype="1"><span class="inf">1 godz.</span><h3>Rosn¹ ceny nieruchomoœci na Wêgrzech</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/polskie-firmy-w-iranie-wspolpraca-sie,98,0,1925730.html" title="Polskie firmy &quot;zalej¹&quot; Iran? Wa¿ne spotkanie" data-st-mtype="0"><span class="inf">3 godz.</span><h3>Polskie firmy &quot;zalej¹&quot; Iran? Wa¿ne spotkanie</h3></a></li><li class="  autor"><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/tania-ropa-dobija-finanse-arabii-saudyjskiej,127,0,1924479.html" title="Koniec saudyjskiego eldorado? Arabowie musz¹ oszczêdzaæ" data-st-mtype="0"><span class="inf">wa¿ne</span><h3 data-autor="Jacek Fr¹czyk">Koniec saudyjskiego eldorado? Arabowie musz¹ oszczêdzaæ</h3></a></li><li class=" "><a href="http://prawo.money.pl/aktualnosci/wiadomosci/artykul/czeka-nas-internetowa-rewolucja-eksperci,97,0,1925729.html" title="Koniec &quot;zgni³ego kompromisu&quot;. Tu chodzi o nasze dane" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Koniec &quot;zgni³ego kompromisu&quot;. Tu chodzi o nasze dane</h3></a></li><li class=" "><a href="http://www.biztok.pl/biznes/w-ciagu-dekady-sprzedaz-wina-w-polsce-wzrosla-o-polowe-rocznie-polak-wypija-ok-7-litrow-tego-trunku_a22461" title="Polacy pij¹, Portugalczycy zacieraj¹ rêce" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Polacy pij¹, Portugalczycy zacieraj¹ rêce</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/polska-podpisala-umowe-z-azjatyckim-bankiem,45,0,1924909.html" title="Polska w azjatyckim superbanku. Co zyskamy?" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Polska w azjatyckim superbanku. Co zyskamy?</h3></a></li>	    </ul>
+
+		<em><em><var><ins></ins></var></em></em>		<div id="dynAdv13"><div id="adv13"><script type="text/javascript">NPB("013");</script></div></div>
+
+	    <ul class="text-links kolejny" data-st-area="Finanse-prawa">
+	    <li class=" "><a href="http://www.biztok.pl/biznes/lidl-mocno-podkrecil-wydatki-na-reklame-w-telewizji-to-juz-ponad-40-mln-zl-miesiecznie_a22464" title="Lidl mocno podkrêca wydatki na reklamê" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Lidl mocno podkrêca wydatki na reklamê</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/nowy-podatek-w-hiszpanii-rzad-w-ogniu,140,0,1925004.html" title="Bêd¹ p³aciæ &quot;podatek od s³oñca&quot;" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Bêd¹ p³aciæ &quot;podatek od s³oñca&quot;</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/mial-ratowac-kompanie-weglowa-ale,68,0,1924932.html" title="Mia³ ratowaæ Kompaniê Wêglow¹, ale zrezygnowa³" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Mia³ ratowaæ Kompaniê Wêglow¹, ale zrezygnowa³</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/rosyjskie-embargo-na-wieprzowine-z-ue,236,0,1925100.html" title="Koniec z embargiem Rosji na miêso? &quot;Niewiele trzeba&quot;" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Koniec z embargiem Rosji na miêso? &quot;Niewiele trzeba&quot;</h3></a></li><li class=" "><a href="http://www.biztok.pl/biznes/bizony-zagrazaja-zubrom-hodowca-porozumial-sie-z-ministerstwem_a22458" title="Bizony z Podlasia zagra¿aj¹ ¿ubrom?" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Bizony z Podlasia zagra¿aj¹ ¿ubrom?</h3></a></li><li class=" "><a href="http://www.money.pl/gospodarka/wiadomosci/artykul/minister-przekonuje-innych-do-uproszczenia,114,0,1924978.html" title="Minister wie, jak walczyæ z szar¹ stref¹" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Minister wie, jak walczyæ z szar¹ stref¹</h3></a></li><li class=" "><a href="http://msp.money.pl/wiadomosci/kadry/artykul/wiecej-pieniedzy-w-funduszu-pracy-na-walke-z,160,0,1924768.html" title="Rz¹d w koñcu pomyœla³ o m³odych. Wiêcej pracy?" data-st-mtype="0"><span class="inf">wa¿ne</span><h3>Rz¹d w koñcu pomyœla³ o m³odych. Wiêcej pracy?</h3></a></li>	    </ul>
+	    <ul class="boksyGlowne" data-st-area="Finanse-prawa-kafle">
+	    <li ><div class="sArt "><a title="Te banknoty lepiej wymieniæ na Wyspach. Inaczej stracisz " href="http://www.biztok.pl/waluty/te-banknoty-przyjezdzaja-ze-szkocji-do-polski-lepiej-wymienic-je-na-wyspach_a22446" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/630157077-980986048.jpg" alt="" /><h3>Te banknoty lepiej wymieniæ na Wyspach. Inaczej stracisz </h3></a></div></li>	    </ul>
+	</div>
+		    	<div class="kbot">
+	    <div class="wideEcom">
+		<h4><strong>Reklama</strong></h4>
+		<div class="ecom" data-st-area="Finanse-zakupy-pasaz-finansowy">
+		    	<ul>
+	    <li>
+		<em><var><cite><em></em></cite></var></em>		<div id="dynAdv56"><div id="adv56"><script type="text/javascript">NPB("056");</script></div></div>
+	    </li>
+	</ul>
+		    <ul><li><a target="_blank" href="http://moneymania.pl/?IDDistributor=18404" title="Zgarnij nawet 2000 z³ w prezencie!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444222150_a.jpg" alt="" />Zgarnij nawet 2000 z³ w prezencie!</a></li></ul>
+	    	    <ul><li><a target="_blank" href="http://direct.money.pl/landing-page/porownanie_ubezpieczen_komunikacyjnychv2/?IDDistributor=18404" title="AC i OC samochodu: Porównaj i oszczêdŸ!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201507/1436192855_a.jpg" alt="" />AC i OC samochodu: Porównaj i oszczêdŸ!</a></li></ul>
+	    		</div>
+		<div class="ecom" data-st-area="Finanse-zakupy-turystyka">
+		    	<ul>
+	    <li class="x57">
+		<em><var><cite><ins></ins></cite></var></em>		<div id="dynAdv57"><div id="adv57"><script type="text/javascript">NPB("057");</script></div></div>
+	    </li>
+	</ul>
+		    <ul><li><a target="_blank" href="https://ad.doubleclick.net/ddm/clk/292178990;119419930;t?http://www.trivago.pl/?iPathId=31468&amp;aOverallLiking=2,3,4,5&amp;cip=48010136040101&amp;cip_tc=Chorwacja" title="Noclegi w Chorwacji do -74%! SprawdŸ >>>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201509/1441631968_a.jpg" alt="" />Noclegi w Chorwacji do -74%! SprawdŸ >>></a></li></ul>
+	    		</div>
+		<div class="ecom" data-st-area="Finanse-zakupy-ogloszenia">
+		    		<ul><li><a target="_blank" href="http://praca.wp.pl/oferty,pracy,wyszukaj,0.html?slowo=kierowca&amp;zawod=&amp;wojewodztwo=&amp;okres=?utm_source=SG_WP.pl&amp;utm_medium=boks&amp;utm_term=42237&amp;utm_campaign=Praca" title="Praca dla Kierowców! SprawdŸ >>>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201409/1411999250_a.jpg" alt="" />Praca dla Kierowców! SprawdŸ >>></a></li></ul>
+				<ul><li><a target="_blank" href="http://praca.wp.pl/oferty,pracy,wyszukaj,0.html?slowo=EUR&amp;zawod=&amp;wojewodztwo=&amp;okres=?utm_source=SG_WP.pl&amp;utm_medium=boks&amp;utm_term=42237&amp;utm_campaign=Pracuj" title="Pracuj za granic¹ i zarabiaj w EUR >>>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201501/1421399153_a.jpg" alt="" />Pracuj za granic¹ i zarabiaj w EUR >>></a></li></ul>
+				</div>
+	    </div>
+	</div>
+		</section>
+    	<em><ins><em><ins></ins></em></ins></em><div id="dynAdv17"><div id="adv17"><script type="text/javascript">NPB("017");</script></div></div>	<section class="sec styl" data-st-area="Stylzycia">
+	    	<header class="header" data-st-area="Stylzycia-naglowek">
+	    <div class="header--content">
+		<h2 class="header--text">
+		    <a href="http://gwiazdy.wp.pl">Styl ¿ycia &amp; gwiazdy</a>
+		</h2>
+	    </div>
+	</header>
+		    <div class="wideCol">
+		<div class="leftCol">
+		    	<div class="narArts ABlewa_2" data-st-area="Stylzycia-lewa">
+	    <ul>
+	    <li  class="tylko-w-wp"><a title="Jak mieæ figurê jak Ola Szwed nawet po ci¹¿y? Aktorka zdradza swoje sekrety" href="http://gwiazdy.wp.pl/galeria/5916611326715009/ola-szwed-o-macierzynstwie-jestem-non-stop-na-chodzie.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/61971503--920256656.jpg" alt="" /></div><h2>Jak mieæ figurê jak Ola Szwed nawet po ci¹¿y? Aktorka zdradza swoje sekrety<WP/></h2></a></li><li ><a title="Ups! Anna Cieœlak na parkiecie pokaza³a odrobinê za du¿o" href="http://teleshow.wp.pl/gid,17900935,title,Taniec-z-gwiazdami-kontrowersyjne-oceny-klotnie-jury-i-gwiazdy-pop-na-parkiecie-tanecznego-show,tpl,6,galeria.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1045399899--1713224344.jpeg" alt="" /></div><h2>Ups! Anna Cieœlak na parkiecie pokaza³a odrobinê za du¿o</h2></a></li><li ><a title="Córka £opuckiego to ju¿ nie dziecko! Przyæmi³a Skrzyneck¹?" href="http://gwiazdy.wp.pl/galeria/5916559922046081/marcin-lopucki-z-corka-na-salonach.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/998757384--1050691481.jpg" alt="" /></div><h2>Córka £opuckiego to ju¿ nie dziecko! Przyæmi³a Skrzyneck¹?</h2></a></li><li ><a title="Olga Fibak wysz³a za m¹¿! Mamy zdjêcie piêknej sukni" href="http://gwiazdy.wp.pl/artykul/5916228494070401/olga-fibak-wyszla-za-maz.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/519477051-1467091408.jpg" alt="" /></div><h2>Olga Fibak wysz³a za m¹¿! Mamy zdjêcie piêknej sukni</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Stylzycia-mozaika">
+	    <ul>
+	    <li ><div class="sArt dbl "><a href="http://gwiazdy.wp.pl/galeria/5916668661412481/andrzej-golota-znow-wzial-slub.html" title="Andrzej Go³ota znów wzi¹³ œlub! To ju¿ trzeci raz" data-st-mtype="0"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/2133800573-423228488.jpg" alt="" /><h3>Andrzej Go³ota znów wzi¹³ œlub! To ju¿ trzeci raz</h3></a></div></li><li ><div class="sArt "><a href="http://gwiazdy.wp.pl/galeria/5916881996326017/joanna-krupa-skape-bikini-zdecydowanie-jest-dla-niej.html" title="Krupa w sk¹pym bikini. I ani œladu cellulitu!" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/575143471-2104949516.jpg" alt="" /><h3>Krupa w sk¹pym bikini. I ani œladu cellulitu!</h3></a></div></li><li ><div class="sArt "><a href="http://teleshow.wp.pl/gid,17902417,title,Twoja-Twarz-Brzmi-Znajomo-Monika-Dryl-dala-sie-oszpecic-a-Natalia-Szroeder-zostala-raperem,tpl,6,galeria.html" title="Œliczna aktorka da³a siê oszpeciæ! Poznajecie?" data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/220296528-947542546.jpg" alt="" /><h3>Œliczna aktorka da³a siê oszpeciæ! Poznajecie?</h3></a></div></li><li ><div class="sArt dbl fr "><a href="http://film.wp.pl/idGallery,16813,idPhoto,438601,title,Lara-Flynn-Boyle-Co-sie-stalo-z-gwiazda-kultowego-Miasteczka-Twin-Peaks,galeria.html?ticaid=115bc3&amp;_ticrsn=5" title="„Jej twarz wygl¹da, jakby mia³a siê roztopiæ”. Aktorka kultowego serialu to dziœ karykatura samej siebie" data-st-mtype="2"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444473861_a.jpg" alt="" /><h3>„Jej twarz wygl¹da, jakby mia³a siê roztopiæ”. Aktorka kultowego serialu to dziœ karykatura samej siebie</h3></a></div></li><li ><div class="sArt "><a href="http://aleseriale.pl/gid,16814,img,438610,fototemat.html" title="Gwiazda przy³apana! Bez makija¿u nie jest sob¹. Poznajesz?" data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1242986641-942708425.jpg" alt="" /><h3>Gwiazda przy³apana! Bez makija¿u nie jest sob¹. Poznajesz?</h3></a></div></li><li ><div class="sArt "><a href="http://film.wp.pl/idGallery,16810,idPhoto,438590,title,Luke-Perry-Rola-Dylana-stala-sie-jego-przeklenstwem,galeria.html" title="Odszed³ z poczuciem zmarnowanych 9 lat. Idol nastolatek koñczy dziœ 50 lat. Ile zosta³o z dawnego Dylana?" data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/88449040--1689002725.jpg" alt="" /><h3>Odszed³ z poczuciem zmarnowanych 9 lat. Idol nastolatek koñczy dziœ 50 lat. Ile zosta³o z dawnego Dylana?</h3></a></div></li>	    </ul>
+	</div>
+		    </div>
+	    	<div class="imgArts" data-st-area="Stylzycia-prawa">
+	    <ul>
+	    <li ><div class="sArt trp "><a href="http://teleshow.wp.pl/gid,17902628,title,Rita-Ora-w-samych-rajstopach,tpl,6,galeria.html" title="Wraca gwiazdorska moda na noszenie samych rajstop! Rita Ora nie widzia³a siê w lustrze?" data-st-mtype="2"><img width="332" height="605" data-src="http://y.wpimg.pl/i/ivar/G/201510/830633435--579292036.jpg" alt="" /><h3>Wraca gwiazdorska moda na noszenie samych rajstop! Rita Ora nie widzia³a siê w lustrze?</h3></a></div></li><li ><div class="sArt "><a href="http://gwiazdy.wp.pl/galeria/5916682148934273/edyta-gorniak-w-czapce-z-woalka-kiczowato.html" title="Kiczowata czapka, podarte spodnie - Górniak przesadza?" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/354731475-1468703705.jpg" alt="" /><h3>Kiczowata czapka, podarte spodnie - Górniak przesadza?</h3></a></div></li>	    </ul>
+	</div>
+		    	<div class="kbot">
+		<div class="wideEcom">
+			<div class="ecom ofspec">
+						<h4><strong>WP POLECA</strong></h4>
+			<a href="http://tech.wp.pl/kat,1009779,title,Cenega-Microsoft-Sony-Computer-Entertainment-Polska-i-Ubisoft-na-Warsaw-Games-Week-2015,wid,17816045,wiadomosc.html" title="  " data-st-mtype="1"><img width="158" height="292" data-src="http://y.wpimg.pl/i/ivar/G/201510/1443772515_a.jpg" alt="" /></a>			</div>
+			<div class="ecom">
+			<h4><strong>Oferty specjalne</strong></h4>
+			<ul>
+				<li>
+				<em><ins><em><var></var></em></ins></em>				<div id="dynAdv19"><div id="adv19"><script type="text/javascript">NPB("019");</script></div></div>
+				</li>
+			</ul>
+			<ul>
+				<li>
+				<em><ins><ins><ins></ins></ins></ins></em>				<div id="dynAdv21"><div id="adv21"><script type="text/javascript">NPB("021");</script></div></div>
+				</li>
+			</ul>
+			<ul>
+				<li>
+				<em><ins><ins><var></var></ins></ins></em>				<div id="dynAdv23"><div id="adv23"><script type="text/javascript">NPB("023");</script></div></div>
+				</li>
+			</ul>
+			<ul>
+				<li>
+				<em><ins><cite><ins></ins></cite></ins></em>				<div id="dynAdv25"><div id="adv25"><script type="text/javascript">NPB("025");</script></div></div>
+				</li>
+			</ul>
+			<ul>
+				<li>
+				<em><ins><cite><var></var></cite></ins></em>				<div id="dynAdv27"><div id="adv27"><script type="text/javascript">NPB("027");</script></div></div>
+				</li>
+			</ul>
+			<ul>
+				<li>
+				<em><ins><var><ins></ins></var></ins></em>				<div id="dynAdv29"><div id="adv29"><script type="text/javascript">NPB("029");</script></div></div>
+				</li>
+				<li ><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fgryonline.wp.pl%2F%3Ftpsg" title="Gryonline.wp.pl Tysi¹ce graczy online!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201409/1411389827_a.png" alt="" /><b>Gryonline.wp.pl</b> Tysi¹ce graczy online!</a></li>			</ul>
+			</div>
+		</div>
+	</div>
+		</section>
+	<em><em><cite><cite></cite></cite></em></em><div id="dynAdv10"><div id="adv10"><script type="text/javascript">NPB("010");</script></div></div>	<section class="sec moto" data-st-area="Moto">
+	    	<header class="header" data-st-area="Mototech-naglowek">
+	    <div class="header--content">
+		<h2 class="header--text">
+			<a href="http://moto.wp.pl/">Moto</a>
+			&amp;
+			<a href="http://tech.wp.pl/">tech</a>
+		</h2>
+	    </div>
+	</header>
+		    <div class="wideCol">
+		<div class="leftCol">
+		    	<div class="narArts" data-st-area="Mototech-lewa">
+	    <ul>
+	    <li ><a title="Niemo¿liwe? Zobacz, jak mo¿na zakorkowaæ 50-pasmow¹ autostradê" href="http://wp.tv/i,to-prawdopodobnie-najwiekszy-korek-na-swiecie,mid,1800108,cid,4051,klip.html" data-st-mtype="3"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444307105_a.jpg" alt="" /></div><h2>Niemo¿liwe? Zobacz, jak mo¿na zakorkowaæ 50-pasmow¹ autostradê</h2></a></li><li ><a title="Œwietny i tani smartfon OnePlus 2 dla wszystkich - ale tylko przez godzinê" href="http://tech.wp.pl/kat,1009781,title,OnePlus-2-kupisz-bez-zaproszenia-12-pazdziernika,wid,17900064,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/30002335-1473839900.jpeg" alt="" /></div><h2>Œwietny i tani smartfon OnePlus 2 dla wszystkich - ale tylko przez godzinê</h2></a></li><li ><a title="U¿ytkowników Windowsa czeka nied³ugo du¿a zmiana" href="http://tech.wp.pl/kat,1009779,title,Dni-Panelu-Sterowania-Windows-sa-policzone,wid,17900453,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/793571748--1850386263.png" alt="" /></div><h2>U¿ytkowników Windowsa czeka nied³ugo du¿a zmiana</h2></a></li><li ><a title="Tych aut unikaj jak ognia. Psuje siê w nich kosztowny uk³ad paliwowy" href="http://moto.wp.pl/gid,17898744,title,W-samochodach-tych-marek-najczesciej-psuje-sie-uklad-paliwowy,galeriazdjecie.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1289776552-572350287.jpeg" alt="" /></div><h2>Tych aut unikaj jak ognia. Psuje siê w nich kosztowny uk³ad paliwowy</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Mototech-mozaika">
+	    <ul>
+	    <li ><div class="sArt wide "><a href="http://rtvagd.wp.pl/gid,17899056,img,16167877,kat,1032149,title,Jak-szybko-i-latwo-wysprzatac-cale-mieszkanie,galeriazdjecie.html" title="Chcesz szybko i skutecznie wysprz¹taæ swoje mieszkanie? Oto kilka sposobów" data-st-mtype="2"><img width="680" height="260" data-src="http://y.wpimg.pl/i/ivar/G/201510/1693712060-1411464762.jpg" alt="" /><span class="wr">fot. Christian Delbert</span><h3>Chcesz szybko i skutecznie wysprz¹taæ swoje mieszkanie? Oto kilka sposobów</h3></a></div></li><li ><div class="sArt "><a href="http://moto.money.pl/wiadomosci/aktualnosci/artykul/polacy-pokochali-motocykle-nasze-marki-na,242,0,1924594.html" title="Polskie marki pokona³y japoñskich gigantów. Zdecydowali motocykliœci" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/722923475-1342320894.jpg" alt="" /><h3>Polskie marki pokona³y japoñskich gigantów. Zdecydowali motocykliœci</h3></a></div></li><li ><div class="sArt wideo"><a href="http://moto.wp.pl/kat,89554,title,dziejesiewmoto-10102015-hity-tygodnia,wid,17899733,wiadomosc.html" title="Wypad³ z auta na œrodku autostrady. Cudem prze¿y³" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/555269959--684834498.jpg" alt="" /><h3>Wypad³ z auta na œrodku autostrady. Cudem prze¿y³</h3></a></div></li><li ><div class="sArt "><a href="http://tech.wp.pl/kat,1009659,title,Genialny-sposob-na-glupich-kierowcow,wid,17900465,wiadomosc.html" title="Sposób na g³upich kierowców. Po tym ju¿ nigdy nie zabior¹ miejsca niepe³nosprawnym" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1567715248--1106812116.jpg" alt="" /><h3>Sposób na g³upich kierowców. Po tym ju¿ nigdy nie zabior¹ miejsca niepe³nosprawnym</h3></a></div></li><li ><div class="sArt "><a href="http://tech.wp.pl/kat,1009785,title,Mezczyzna-ktory-kupil-Googlecom-za-12-dolarow-final-nieslychanego-incydentu,wid,17899046,wiadomosc.html" title="Mê¿czyzna, który kupi³ Google.com za... 12 dolarów. Zaskakuj¹cy fina³ sprawy" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1093394287--308672014.jpg" alt="" /><h3>Mê¿czyzna, który kupi³ Google.com za... 12 dolarów. Zaskakuj¹cy fina³ sprawy</h3></a></div></li>	    </ul>
+	</div>
+		    </div>
+	    	<div class="imgArts" data-st-area="Mototech-prawa">
+	    <ul>
+	    <li ><div class="sArt dblhal "><a href="http://moto.wp.pl/kat,89554,title,Darmowe-autostrady-w-Polsce-Jest-taki-pomysl,wid,17897327,wiadomosc.html" title="Darmowe autostrady w Polsce? Tak mo¿e byæ ju¿ wkrótce" data-st-mtype="1"><img width="332" height="467" data-src="http://y.wpimg.pl/i/ivar/G/201510/911785096-707372695.jpg" alt="" /><h3>Darmowe autostrady w Polsce? Tak mo¿e byæ ju¿ wkrótce</h3></a></div></li><li ><div class="sArt "><a href="http://tech.wp.pl/kat,130036,title,Szef-Xboxa-klania-sie-firmie-Sony,wid,17901457,wiadomosc.html" title="Szef Xboxa k³ania siê firmie Sony" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1673772592--885143911.jpg" alt="" /><h3>Szef Xboxa k³ania siê firmie Sony</h3></a></div></li>	    </ul>
+	</div>
+		    	<div class="kbot">
+	    <div class="wideEcom">
+		<div class="ecom" data-st-area="Mototech-zakupy-ogloszenia">
+		    			<ul>
+			    <li><a target="_blank" href="https://www.blablacar.pl/tanie-podrozowanie?comuto_cmkt=PL_WP_BOX_MOTO_ALL_BOXY-WSZYSCY_CARS2&amp;utm_source=WP_BOX_MOTO&amp;utm_medium=other&amp;utm_campaign=PL_WP_BOX_MOTO_ALL_BOXY-WSZYSCY_CARS2" title="Jedziesz dok¹dœ? SprawdŸ ten serwis!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201507/1437476387_a.jpg" alt="" />Jedziesz dok¹dœ? SprawdŸ ten serwis!</a></li>			</ul>
+						<ul>
+			    <li><a target="_blank" href="https://www.blablacar.pl/tanie-podrozowanie?comuto_cmkt=PL_WP_BOX_MOTO_ALL_BOXY-WSZYSCY_CARS2&amp;utm_source=WP_BOX_MOTO&amp;utm_medium=other&amp;utm_campaign=PL_WP_BOX_MOTO_ALL_BOXY-WSZYSCY_CARS2" title="BlaBlaCar - to ju¿ klasyka podró¿owania!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201507/1437475974_a.jpg" alt="" />BlaBlaCar - to ju¿ klasyka podró¿owania!</a></li>			</ul>
+						<ul>
+			    <li><a target="_blank" href="http://ogloszenia.wp.pl/osobowe/Skoda/Superb/?sort=cena_asc" title="Skoda Superb. Ceny ju¿ od 20 900 z³" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201411/1416916571_a.jpg" alt="" />Skoda Superb. Ceny ju¿ od 20 900 z³</a></li>			</ul>
+						<ul>
+			    <li><a target="_blank" href="http://ogloszenia.wp.pl/osobowe/Opel/Insignia" title="Opel Insignia ju¿ od 25 tys. z³otych - zobacz" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201505/d93871cc4af2f25e9a64ceef9e2146d8.jpg" alt="" />Opel Insignia ju¿ od 25 tys. z³otych - zobacz</a></li>			</ul>
+						<ul>
+			    <li><a target="_blank" href="http://ogloszenia.wp.pl/osobowe/Audi/A4/?pc=20000-30000" title="Audi A4 w cenach 20-30 tys. z³. Oferty >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201505/5d281a3b421bc0f35ea13d5ce5075ea7.jpg" alt="" />Audi A4 w cenach 20-30 tys. z³. Oferty >></a></li>			</ul>
+						<ul>
+			    <li><a target="_blank" href="http://morizon.wp.pl/wynajem/mieszkan/kawalerki/?search=1/&amp;utm_source=WP.PL&amp;utm_medium=SG_FINANSE_MODUL&amp;utm_campaign=KAWALERKI_RENT" title="Szukasz kawalerki do wynajêcia? Oferty >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201410/1412587822_a.jpg" alt="" />Szukasz kawalerki do wynajêcia? Oferty >></a></li>			</ul>
+					</div>
+	    </div>
+	</div>
+		</section>
+	<ins><ins><cite><ins></ins></cite></ins></ins><div id="dynAdv89"><div id="adv89"><script type="text/javascript">NPB("089");</script></div></div>	<section class="sec film" data-st-area="Film">
+	    	<header class="header" data-st-area="Film-naglowek">
+	    <div class="header--content">
+		<h2 class="header--text"><a href="http://wp.tv/">WP.TV</a></h2>
+		<nav><a href="http://tv.wp.pl/">Program TV</a></nav>
+	    </div>
+	</header>
+		    <div class="wideCol">
+			<div class="leftCol">
+	    <div class="narArts ABlewa_2" data-st-area="Film-lewa">
+		<ul>
+		<li ><a title="Polak wys³a³ drona nad Islandiê. To, co uda³o mu siê nagraæ, zapiera dech w piersiach" href="http://wp.tv/i,polak-wyslal-drona-nad-islandie-niezwykly-film,mid,1800109,cid,5050,klip.html" data-st-mtype="3"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444461583_a.jpg" alt="" /></div><h2>Polak wys³a³ drona nad Islandiê. To, co uda³o mu siê nagraæ, zapiera dech w piersiach</h2></a></li><li ><a title="Wrzuci³ Iphone&#039;a do p³yn¹cej lawy, a potem go wyj¹³. Ile wytrzyma³ telefon?" href="http://wp.tv/i,wrzucil-iphonea-do-lawy-sprawdzajac-mozliwosci-telefonow,mid,1800205,cid,2275650,klip.html" data-st-mtype="3"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444469166_a.jpg" alt="" /></div><h2>Wrzuci³ Iphone&#039;a do p³yn¹cej lawy, a potem go wyj¹³. Ile wytrzyma³ telefon?</h2></a></li><li ><a title="Zaparkowaæ to trzeba umieæ. Zobacz, co zrobi³  mimowolny &quot;mistrz&quot;" href="http://wp.tv/i,bardzo-niecodzienne-parkowanie,mid,1800258,cid,8053,klip.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444465472_a.jpg" alt="" /></div><h2>Zaparkowaæ to trzeba umieæ. Zobacz, co zrobi³  mimowolny &quot;mistrz&quot;</h2></a></li>		</ul>
+	    </div>
+	</div>
+				<div class="mainArts" data-st-area="Film-mozaika">
+	    <ul>
+	    <li ><div class="sArt "><a href="http://wp.tv/i,niezwykla-historia-psa-miliony-wyswietlen,mid,1798090,cid,4051,klip.html" title="Najstraszniejsze jest to czego nie widaæ na tym zdjêciu. Miliony wyœwietleñ w sieci" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444551156_a.jpg" alt="" /><h3>Najstraszniejsze jest to czego nie widaæ na tym zdjêciu. Miliony wyœwietleñ w sieci</h3></a></div></li><li ><div class="sArt wideo"><a href="http://wp.tv/i,mieszkaniec-wsi-poskromil-zbyt-szybkich-kierowcow,mid,1800298,cid,4051,klip.html" title="Sprytna sztuczka z fotoradarem, na któr¹ da siê nabraæ ka¿dy polski kierowca" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444548314_a.jpg" alt="" /><h3>Sprytna sztuczka z fotoradarem, na któr¹ da siê nabraæ ka¿dy polski kierowca</h3></a></div></li><li ><div class="sArt wideo"><a href="http://wp.tv/i,niezwykle-nagrania-ze-skazonych-terenow-wokol-czarnobyla,mid,1800201,cid,4051,klip.html" title="Zostawili ukryte kamery w ska¿onym lesie wokó³ Czarnobyla. Nagrania fascynuj¹ naukowców" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444461143_a.jpg" alt="" /><h3>Zostawili ukryte kamery w ska¿onym lesie wokó³ Czarnobyla. Nagrania fascynuj¹ naukowców</h3></a></div></li><li ><div class="sArt wideo"><a href="http://wp.tv/i,pamiatki-po-imigrantach,mid,1800259,cid,4051,klip.html" title="Wczeœniej nikt o tym nie mówi³. Oto, co pozostawiaj¹ po sobie imigranci nap³ywaj¹cy do Europy" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444468517_a.jpeg" alt="" /><h3>Wczeœniej nikt o tym nie mówi³. Oto, co pozostawiaj¹ po sobie imigranci nap³ywaj¹cy do Europy</h3></a></div></li><li ><div class="sArt wideo"><a href="http://wp.tv/i,-nalesniki-ryzowe-z-jablkiem-i-cynamonem-skutecznietv,mid,1798122,cid,5050,klip.html" title="Rewelacja. Te naleœniki usma¿ysz szybciej ni¿ zwyk³e, a goœcie bêd¹ prosiæ o przepis" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444204262_a.jpg" alt="" /><h3>Rewelacja. Te naleœniki usma¿ysz szybciej ni¿ zwyk³e, a goœcie bêd¹ prosiæ o przepis</h3></a></div></li><li ><div class="sArt "><a href="http://film.wp.pl/id,154365,title,Eddie-Murphy-kreci-z-Netfliksem,wiadomosc.html" title="Ostatnie 10 lat by³o dla niego jedn¹ wielk¹ klap¹. W³aœnie zdoby³ rolê ¿ycia?" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444402724_a.jpg" alt="" /><h3>Ostatnie 10 lat by³o dla niego jedn¹ wielk¹ klap¹. W³aœnie zdoby³ rolê ¿ycia?</h3></a></div></li>	    </ul>
+	</div>
+		    </div>
+	    	<div class="imgArts" data-st-area="Film-prawa">
+	    <ul>
+	    <li ><div class="sArt "><a href="http://film.wp.pl/id,154369,title,Marsjanin-podbija-kina-z-mala-pomoca-Polakow,wiadomosc.html" title="&quot;Marsjanin&quot; podbija kina z pomoc¹ Polaków. Zobacz, co potrafimy stworzyæ nad Wis³¹" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444462088_a.jpg" alt="" /><h3>&quot;Marsjanin&quot; podbija kina z pomoc¹ Polaków. Zobacz, co potrafimy stworzyæ nad Wis³¹</h3></a></div></li><li ><div class="sArt "><a href="http://film.wp.pl/id,154372,title,dziejesienazywo-Malgorzata-Potocka-o-erotyce-w-polskim-kinie-WIDEO,wiadomosc.html" title="Czemu sceny erotyczne w polskim kinie s¹ tak fatalne? Znana aktorka zdradza kulisy" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444479055_a.jpg" alt="" /><h3>Czemu sceny erotyczne w polskim kinie s¹ tak fatalne? Znana aktorka zdradza kulisy</h3></a></div></li><li ><div class="sArt wideo"><a href="http://wp.tv/i,jak-wybrac-dobra-kawe,mid,1800300,cid,5050,klip.html" title="Nie przep³acaj za markê. Zobacz, jak kupiæ znakomit¹ kawê" data-st-mtype="3"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444555102_a.jpg" alt="" /><h3>Nie przep³acaj za markê. Zobacz, jak kupiæ znakomit¹ kawê</h3></a></div></li>	    </ul>
+	</div>
+		</section>
+		<section class="sec ecommerce j422" data-st-area="Zakupy">
+		    	<header class="header" data-st-area="Zakupy-header">
+		    <div class="header--content">
+			    <h2 class="header--text">
+				    Zakupy z WP
+			    </h2>
+			    <nav>
+				    <a href="http://www.ceneo.pl/?utm_source=wp_pl&amp;utm_medium=link&amp;utm_campaign=api#pid=3377&amp;cid=4621" target="_blank">Ceneo</a>
+			    </nav>
+		    </div>
+		    <div class="ecomLnk">
+		    		    </div>
+	    </header>
+			    <div class="wideCol">
+			    <div class="narEcom ecom" data-st-area="Zakupy-lewa">	<ul>
+	    <li class="isa">
+		<em><var><em><cite></cite></em></var></em>		<div id="dynAdv50"><div id="adv50"><script type="text/javascript">NPB("050");</script></div></div></li>
+		<li class="isa">
+		<em><var><em><var></var></em></var></em>		<div id="dynAdv51"><div id="adv51"><script type="text/javascript">NPB("051");</script></div></div></li>
+		<li><a target="_blank" href="https://limango.wp.pl/welcome/grid/beppi?utm_source=wp.pl&amp;utm_medium=kooperacja&amp;utm_campaign=20151009+buty_kids&amp;utm_content=beppi&amp;w=1672308400" title="Buciki na jesieñ - tylko do niedzieli -60%! >>" data-st-mtype="0"><img width="158" height="85" src="http://y.wpimg.pl/i/ivar/Z/201510/1444398159_a.jpg" alt="" />Buciki na jesieñ - tylko do niedzieli -60%! >></a></li><li><a target="_blank" href="http://dot.wp.pl/redir?SN=ecommerce_ceneo_sg_produkty&amp;url=http%3A%2F%2Fwww.ceneo.pl%2FTorebki_damskie%3Futm_source%3Dwp_pl%26utm_medium%3Dzakupy%26utm_campaign%3Dtorebki_damskie1_pazdziernik%23pid%3D3377%26crid%3D12716%26cid%3D4682" title="Torebki na ka¿d¹ okazjê. Tysi¹ce ofert >>" data-st-mtype="0"><img width="158" height="85" src="http://y.wpimg.pl/i/ivar/G/201509/1726174752--1645812431.jpg" alt="" />Torebki na ka¿d¹ okazjê. Tysi¹ce ofert >></a></li>						</ul>
+	</div>
+			    <div class="mainArts" data-st-area="Zakupy-mozaika">	    <ul>
+		<li class="isa">
+		<em><var><ins><em></em></ins></var></em>		<div id="dynAdv52"><div id="adv52"><script type="text/javascript">NPB("052");</script></div></div></li>
+		<li class="isa">
+		<em><var><ins><ins></ins></ins></var></em>		<div id="dynAdv53"><div id="adv53"><script type="text/javascript">NPB("053");</script></div></div></li>
+		<li class="isa">
+		<em><var><ins><cite></cite></ins></var></em>		<div id="dynAdv54"><div id="adv54"><script type="text/javascript">NPB("054");</script></div></div></li>
+		<li class="isa">
+		<em><var><ins><var></var></ins></var></em>		<div id="dynAdv55"><div id="adv55"><script type="text/javascript">NPB("055");</script></div></div></li>
+	    </ul>
+	</div>
+			    <div class="wideEcom">
+				    <div class="ecom" data-st-area="Zakupy-oferty">	<h4><strong>Okazje cenowe</strong></h4>
+	<ul>
+	<li><a target="_blank" href="http://www.eobuwie.com.pl/damskie/kozaki-i-inne/botki.html?utm_source=WPPL&amp;utm_medium=Giftext&amp;utm_content=Giftext_11102015&amp;utm_campaign=Giftext" title="Botki - najmodniejsze fasony sezonu >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201510/1444394424_a.gif" alt="" />Botki - najmodniejsze fasony sezonu >></a></li><li><a target="_blank" href="https://www.unisono.eu/sukienki?utm_source=wp&amp;utm_medium=cpc&amp;utm_term=wp_unisono_158x85_sukienkii_ver1.jpg&amp;utm_campaign=zakupy-z-wp-okazje-cen-stala-obecnosc" title="Bawe³niane sukienki - wygoda w supercenie" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201510/1444382270_a.jpg" alt="" />Bawe³niane sukienki - wygoda w supercenie</a></li><li><a target="_blank" href="http://dot.wp.pl/redir?SN=ecommerce_ceneo_sg_produkty&amp;url=http%3A%2F%2Fwww.ceneo.pl%2FDla_Mezczyzny%3Futm_source%3Dwp_pl%26utm_medium%3Dzakupy%26utm_campaign%3Dmoda_meska_pazdziernik%23pid%3D3377%26crid%3D34173%26cid%3D4682" title="Moda mêska. Jak dobrze i stylowo wygl¹daæ >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201509/2016203477--290523876.jpg" alt="" />Moda mêska. Jak dobrze i stylowo wygl¹daæ >></a></li><li><a target="_blank" href="https://limango.wp.pl/welcome/grid/bartek?utm_source=wp.pl&amp;utm_medium=kooperacja&amp;utm_campaign=20150922+buty_kids&amp;utm_content=bartek&amp;w=1672308400" title="Bartek - buty dzieciêce na jesieñ do -41%!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201509/1443009487_a.jpg" alt="" />Bartek - buty dzieciêce na jesieñ do -41%!</a></li>	</ul>
+	</div>
+				    <div class="ecom" data-st-area="Zakupy-dlakobiet">	<h4><strong>Dla kobiet</strong></h4>
+	<ul>
+	<li><a target="_blank" href="https://www.venezia.pl/kozaki-c-166-14.17.166.html?utm_source=wp&amp;utm_medium=cpc&amp;utm_term=wp_venezia_158x85_kozaki_ver1.jpg&amp;utm_campaign=zakupy-z-wp-okazje-cen-stala-obecnosc" title="HIT jesieni - zamszowe kozaki. SprawdŸ >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201510/1444312342_a.jpg" alt="" />HIT jesieni - zamszowe kozaki. SprawdŸ >></a></li><li><a target="_blank" href="http://domodi.pl/buty/buty-damskie/botki?f=1&amp;pid=12254183,12099356&amp;utm_source=banner_WP&amp;utm_medium=display&amp;utm_campaign=158x85 _botki" title="Najwiêkszy wybór obuwia w sieci! SprawdŸ >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201510/1444292712_a.jpg" alt="" />Najwiêkszy wybór obuwia w sieci! SprawdŸ >></a></li>	</ul>
+	</div>
+			    </div>
+		    </div>
+		    <div class="medEcom">					
+			    <div id="bxPorownywarka" class="ecomPor ajax" data-st-area="Zakupy-ceneo"></div>
+			    <div class="ecom rgh" data-st-area="Zakupy-promowane">	<h4><strong>Oferty promowane</strong></h4>
+	<ul>
+	<li><a target="_blank" href="http://www.biore.to/?utm_source=SGWP&amp;utm_medium=144x71&amp;utm_term=elektronika&amp;utm_campaign=nawigacjaPlebis#Elektronika" title="50% ni¿sza cena za nawigacjê z mapami" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201502/1423830030_a.jpg" alt="" />50% ni¿sza cena za nawigacjê z mapami</a></li><li><a target="_blank" href="http://rdr.bonprix.pl/go.php?gouid=d43312d5" title="Etniczny styl z najnowszymi trendami >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201510/1444291898_a.jpg" alt="" />Etniczny styl z najnowszymi trendami >></a></li><li><a target="_blank" href="http://ad.doubleclick.net/ddm/clk/291078755;112944495;s?https://www.zalando.pl/tenisowki-trampki-niskie/?wmc=DIS48_RH_PL_1881860.&amp;opc=2211" title="Nowe kolekcje obuwia z dostaw¹ gratis!" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201509/1442397224_a.jpg" alt="" />Nowe kolekcje obuwia z dostaw¹ gratis!</a></li><li><a target="_blank" href="http://rdr.bonprix.pl/go.php?gouid=0169313e" title="Styl Boho znowu powraca. SprawdŸ >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/Z/201509/1441802443_a.jpg" alt="" />Styl Boho znowu powraca. SprawdŸ >></a></li>	</ul>
+	</div>
+		    </div>
+						
+				<div class="narBot"></div>
+				
+       </section>
+	<em><ins><em><cite></cite></em></ins></em><div id="dynAdv18"><div id="adv18"><script type="text/javascript">NPB("018");</script></div></div><ins><em><em><var></var></em></em></ins><div id="dynAdv67"><div id="adv67"><script type="text/javascript">NPB("067");</script></div></div>	<section class="sec kobieta" data-st-area="Kobieta">
+	    	<header class="header" data-st-area="Kobieta-naglowek">
+	    <div class="header--content">
+		<h2 class="header--text">
+		    <a href="http://kobieta.wp.pl/">Kobieta</a>
+		    &amp;
+		    <a href="http://zdrowie.wp.pl/">zdrowie</a>
+		</h2>
+	    </div>
+	</header>
+		    <div class="wideCol">
+		<div class="leftCol">
+		    	<div class="narArts" data-st-area="Kobieta-lewa">
+	    <ul>
+	    <li ><a title="Wraca moda sprzed lat. Hit czy kit?" href="http://dom.wp.pl/gid,17897267,kat,1036583,title,Drzwi-kuchenne-wygoda-czy-przezytek,galeria.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/115202990--1990111062.jpg" alt="" /></div><h2>Wraca moda sprzed lat. Hit czy kit?</h2></a></li><li ><a title="Prosty przepis przepis na b³yskawiczne ciasto bez miksera! " href="http://wp.tv/i,pelnoziarnisty-placek-ze-sliwkami-skutecznietv,mid,1800272,cid,5050,klip.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444478069_a.jpg" alt="" /></div><h2>Prosty przepis przepis na b³yskawiczne ciasto bez miksera! </h2></a></li><li ><a title="Te fryzury bêd¹ modne jesieni¹!" href="http://kobieta.wp.pl/gid,17897599,img,17897604,kat,1036499,title,Jesienno-zimowe-trendy-fryzjerskie-wedlug-Balmain-Hair,galeriazdjecie.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/97084493-1487744507.jpg" alt="" /></div><h2>Te fryzury bêd¹ modne jesieni¹!</h2></a></li><li ><a title="Racuszki inne ni¿ wszystkie. Ich sekret to wyœmienity sos" href="http://kuchnia.wp.pl/id,11224,title,Placuszki-z-jablkami-w-sosie-winno-korzennym,przepis.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/40192615-185831086.jpg" alt="" /></div><h2>Racuszki inne ni¿ wszystkie. Ich sekret to wyœmienity sos</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Kobieta-mozaika">
+	    <ul>
+	    <li ><div class="sArt wide "><a href="https://portal.abczdrowie.pl/co-jest-znacznie-lepsze-niz-viagra" title="Naturalne rozwi¹zania na problemy w ³ó¿ku. Masz je w kuchni" data-st-mtype="0"><img width="680" height="260" data-src="http://y.wpimg.pl/i/ivar/G/201510/1585295654-2062390945.jpg" alt="" /><span class="wr">fot. </span><h3>Naturalne rozwi¹zania na problemy w ³ó¿ku. Masz je w kuchni</h3></a></div></li><li ><div class="sArt "><a href="http://kobieta.wp.pl/kat,141434,title,Olivier-Rousteing-czego-o-nim-nie-wiecie,wid,17899979,wiadomosc.html" title="S³ynny projektant idzie pod pr¹d utartym standardom. Na jego wybiegu nie znajdziesz chudych modelek" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1763150156--1615662020.jpg" alt="" /><h3>S³ynny projektant idzie pod pr¹d utartym standardom. Na jego wybiegu nie znajdziesz chudych modelek</h3></a></div></li><li ><div class="sArt "><a href="http://gwiazdy.wp.pl/galeria/5916632161165953/paulina-krupinska-w-przeswitujacej-sukience.html" title="M³oda mama w przeœwituj¹cej kreacji - gdzie jest bielizna?" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/172814633--1724790749.jpg" alt="" /><h3>M³oda mama w przeœwituj¹cej kreacji - gdzie jest bielizna?</h3></a></div></li><li ><div class="sArt "><a href="http://kuchnia.wp.pl/kat,1037881,title,Czy-warto-korzystac-w-wolnowaru,wid,17899898,wiadomosc.html" title="Gotowanie prostsze ni¿ myœlisz. Potrawy nie przypal¹ siê i nie trzeba ci¹gle mieszaæ" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/89315828--1614538815.jpg" alt="" /><h3>Gotowanie prostsze ni¿ myœlisz. Potrawy nie przypal¹ siê i nie trzeba ci¹gle mieszaæ</h3></a></div></li><li ><div class="sArt "><a href="http://kuchnia.wp.pl/gid,17899653,kat,1037881,title,Tiramisu-deser-ktory-podbil-swiat,galeria.html" title="Jeden z najpopularniejszych deserów œwiata. Robi¹c go, nie pope³niaj tych b³êdów" data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1976904116-2133963977.jpg" alt="" /><h3>Jeden z najpopularniejszych deserów œwiata. Robi¹c go, nie pope³niaj tych b³êdów</h3></a></div></li>	    </ul>
+	</div>
+		    </div>
+	    	<div class="imgArts" data-st-area="Kobieta-prawa">
+	    <ul>
+	    <li ><div class="sArt dblhal "><a href="https://portal.abczdrowie.pl/chwasty-ktore-mozesz-jesc" title="Poprawiaj¹ wygl¹d skóry i przyspieszaj¹ trawienie. Zamiast z nimi walczyæ warto w³¹czyæ je do menu " data-st-mtype="0"><img width="332" height="467" data-src="http://y.wpimg.pl/i/ivar/G/201510/2006996394--2134560854.jpg" alt="" /><h3>Poprawiaj¹ wygl¹d skóry i przyspieszaj¹ trawienie. Zamiast z nimi walczyæ warto w³¹czyæ je do menu </h3></a></div></li><li ><div class="sArt "><a href="http://kuchnia.wp.pl/id,11222,title,Salatka-z-jarmuzem-suszonymi-pomidorami-i-jajkami-przepiorczymi,przepis.html" title="Wyszukane sk³adniki w prostym przepisie. T¹ sa³atk¹ zaskoczysz goœci" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/278555823--1771433617.JPG" alt="" /><h3>Wyszukane sk³adniki w prostym przepisie. T¹ sa³atk¹ zaskoczysz goœci</h3></a></div></li>	    </ul>
+	</div>
+		    <div class="kbot">
+			<div class="wideEcom" data-st-area="Kobieta-ogloszenia">
+	    <div class="ecom">
+		<ul>
+		    <li ><a href="http://rdr.bonprix.pl/go.php?gouid=d2b40504" title="Etniczny styl z najnowszymi trendami >>" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444292220_a.jpg" alt="" />Etniczny styl z najnowszymi trendami >></a></li>		</ul>
+	    </div>
+	    <div class="ecom">
+		<ul>
+		    <li ><a href="http://domodi.pl/odziez/odziez-damska/kurtki-i-plaszcze-damskie/plaszcze-damskie?f=1&amp;pid=10234321,8982860,10925060&amp;utm_source=banner_WP&amp;utm_medium=display&amp;utm_campaign=158x85 _plaszcze-damskie" title="Modne p³aszcze damskie na jesieñ i zimê" data-st-mtype="0"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444292521_a.jpg" alt="" />Modne p³aszcze damskie na jesieñ i zimê</a></li>		</ul>
+	    </div>
+	    <div class="ecom"  data-st-area="Kobieta-wppoleca">
+		<ul>
+		    <li ><a href="http://teleshow.wp.pl/title,Chris-Botti-i-Polska-Filharmonia-Kameralna-Sopot,tpl,3,wid,17889681,wiadomosc.html" title="Bilety ju¿ w sprzeda¿y!" data-st-mtype="1"><img width="158" height="85" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444388075_a.jpg" alt="" />Bilety ju¿ w sprzeda¿y!</a></li><li><a href="http://wiadomosci.wp.pl/kat,1342,title,Akcja-charytatywna-potrzebna-powierzchnia-dla-dzieci-zeby-sie-uczyly,wid,17870324,wiadomosc.html" title="Program stypendialny dla m³odzie¿y z ma³ych miejscowoœci" data-st-mtype="1">Program stypendialny dla m³odzie¿y z ma³ych miejscowoœci</a></li>		</ul>
+	    </div>
+	</div>
+			<div id="bxHoroskopWidget" class="ajax" data-st-area="Kobieta-widget"></div>
+	    </div>
+	</section>
+	        <section data-st-area="wyleczto" class="sec wyleczto">
+            <header data-st-area="wyleczto-naglowek" class="header">
+                <div class="header--content">
+                    <h2 class="header--text">
+                        <a href="http://wyleczto.wp.pl">wylecz to</a>
+                    </h2>
+                </div>
+            </header>
+            <div class="wideCol">
+                <div class="leftCol">
+                    <div data-st-area="WyleczTo-lewa" class="narArts ABlewa_2">
+                                <ul>
+        <li ><a title="6 rad, dziêki którym unikniesz pêcherzy na stopach" href="https://portal.abczdrowie.pl/pecherze-na-stopach-skorzystaj-z-tych-rad-a-bolesne-bable-stana-sie-przeszloscia" data-st-mtype="0"><div class="crop"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201510/1162962463-499435671.jpg" alt="" /></div><h2>6 rad, dziêki którym unikniesz pêcherzy na stopach</h2></a></li><li ><a title="Skuteczne metody na zapalenie zatok " href="https://portal.abczdrowie.pl/metody-leczenia-zapalenia-zatok" data-st-mtype="0"><div class="crop"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201510/51399894-1089274957.jpg" alt="" /></div><h2>Skuteczne metody na zapalenie zatok </h2></a></li>        </ul>
+                            </div>
+                </div>
+                <div data-st-area="WyleczTo-mozaika" class="mainArts">
+                            <ul>
+        <li ><div class="sArt dbl fr "><a href="http://wyleczto.wp.pl/pl/dziecko/szczepienia/powiklania-poszczepienne-u-dzieci-i-niemowlat.html#close" title="Czy szczepionki mog¹ byæ przyczyn¹ autyzmu? Poznaj prawdê o powik³aniach poszczepiennych" data-st-mtype="0"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/83295132-1302824772.jpg" alt="" /><h3>Czy szczepionki mog¹ byæ przyczyn¹ autyzmu? Poznaj prawdê o powik³aniach poszczepiennych</h3></a></div></li><li ><div class="sArt "><a href="http://wyleczto.wp.pl/pl/choroby/endokrynologia/ktore-choroby-czesciej-rozwijaja-sie-w-okresie-menopauzy.html" title="Na te choroby czêœciej cierpimy w okresie menopauzy" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/825442528--249315057.jpg" alt="" /><h3>Na te choroby czêœciej cierpimy w okresie menopauzy</h3></a></div></li><li ><div class="sArt "><a href="https://portal.abczdrowie.pl/lukrecja" title="Hamuje rozwój groŸnego nowotworu, pomaga w chorobach w¹troby i wrzodach ¿o³¹dka" data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/2098867812-1217529920.jpg" alt="" /><h3>Hamuje rozwój groŸnego nowotworu, pomaga w chorobach w¹troby i wrzodach ¿o³¹dka</h3></a></div></li>        </ul>
+                        </div>
+            </div>
+            <div data-st-area="WyleczTo-prawa" class="imgArts">
+                        <ul>
+        <li ><div class="sArt "><a href="https://portal.abczdrowie.pl/triki-ekspertow-na-piekne-wlosy" title="Triki ekspertów na piêkne w³osy. Bêd¹ zdrowe i b³yszcz¹ce " data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1422039843--1874976823.jpg" alt="" /><h3>Triki ekspertów na piêkne w³osy. Bêd¹ zdrowe i b³yszcz¹ce </h3></a></div></li><li ><div class="sArt "><a href="https://portal.abczdrowie.pl/cala-prawda-o-kwasach-omega-3" title="Czyszcz¹ têtnice i poprawiaj¹ pracê serca. Niezbêdne w ka¿dej diecie " data-st-mtype="0"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/847436775--305664921.jpg" alt="" /><h3>Czyszcz¹ têtnice i poprawiaj¹ pracê serca. Niezbêdne w ka¿dej diecie </h3></a></div></li>        </ul>
+                    </div>
+        </section>
+        <em><ins><var><var></var></var></ins></em><div id="dynAdv31"><div id="adv31"><script type="text/javascript">NPB("031");</script></div></div>	<section class="sec ciekawostki" data-st-area="Ciekawostki">
+	    	<header class="header" data-st-area="Ciekawostki-naglowek">
+	    <div class="header--content">
+	        <h2 class="header--text">Ciekawostki</h2>
+	    </div>
+	    <div class="header--content gmArtsHd" data-st-area="Ciekawostki-naglowek">
+		<h2 class="header--text">
+		    <a href="http://gry.wp.pl/mmo.html">GRY MMO</a>
+		</h2>
+	    </div>
+        </header>
+		    <div class="wideCol">
+		<div class="leftCol">
+			<div class="narArts" data-st-area="Ciekawostki-lewa">
+	    <ul>
+	    <li ><a title="Para goni³a samolot po p³ycie lotniska! Zobacz, jak to siê skoñczy³o" href="http://turystyka.wp.pl/gid,17898601,kat,1036543,title,Najdziwniejsze-rzeczy-ktore-wydarzyly-sie-w-samolotach-w-ostatnich-miesiacach,galeria.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/34978516-696906336.jpg" alt="" /></div><h2>Para goni³a samolot po p³ycie lotniska! Zobacz, jak to siê skoñczy³o</h2></a></li><li ><a title="Mieszkanie za 60 tys. z³? Tu przeprowadzaj¹ siê polscy emeryci" href="http://dom.wp.pl/kat,1036139,title,Borne-jak-Borneo-Tanie-mieszkanie-na-jesien-zycia,wid,17898879,wiadomosc.html" data-st-mtype="1"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1145362114--395630140.jpg" alt="" /></div><h2>Mieszkanie za 60 tys. z³? Tu przeprowadzaj¹ siê polscy emeryci</h2></a></li><li ><a title="&quot;Jej cia³o by³o warte miliony&quot;. Niewiele by³o w Polsce takich &quot;zjawisk&quot; jak ona" href="http://film.wp.pl/id,154375,title,dziejesienazywo-Ewa-Salacka-byla-zjawiskowa-WIDEO,wiadomosc.html" data-st-mtype="0"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1444393448_a.jpg" alt="" /></div><h2>&quot;Jej cia³o by³o warte miliony&quot;. Niewiele by³o w Polsce takich &quot;zjawisk&quot; jak ona</h2></a></li><li ><a title="Ze œmieci i starych kapsli tworz¹ ma³e dzie³a sztuki" href="http://kobieta.wp.pl/gid,17900240,img,17900298,kat,26263,title,Etiopscy-mistrzowie-bizuterii,galeriazdjecie.html" data-st-mtype="2"><div class="crop"><img width="158" height="91" data-src="http://y.wpimg.pl/i/ivar/G/201510/1823879901-16487732.jpg" alt="" /></div><h2>Ze œmieci i starych kapsli tworz¹ ma³e dzie³a sztuki</h2></a></li>	    </ul>
+	</div>
+			</div>
+			<div class="mainArts" data-st-area="Ciekawostki-mozaika">
+	    <ul>
+		<li ><div class="sArt dbl "><a href="http://turystyka.wp.pl/title,Morze-Srodziemne-porty-i-najwieksze-atrakcje-w-ich-sasiedztwie,wid,17894463,wiadomosc.html" title="T³umy Polaków spêdzaj¹ tam wakacje, Co przyci¹ga ich jak magnes?" data-st-mtype="1"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/21453209--848684077.jpeg" alt="" /><h3>T³umy Polaków spêdzaj¹ tam wakacje, Co przyci¹ga ich jak magnes?</h3></a></div></li><li ><div class="sArt "><a href="http://tech.wp.pl/kat,1009785,title,Billy-swoje-cialo-dla-rodziny-Pat-w-ten-sam-sposob-chce-pomoc-biednym-krajom,wid,17900456,wiadomosc.html" title="Adresy stron pornograficznych wytatuowane na twarzy. Co kierowa³o tymi ludŸmi?" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1324484969--200726849.png" alt="" /><h3>Adresy stron pornograficznych wytatuowane na twarzy. Co kierowa³o tymi ludŸmi?</h3></a></div></li><li ><div class="sArt "><a href="http://facet.wp.pl/gid,17899078,kat,1041465,galeriazdjecie.html" title="Najgorêtsza prezenterka nowej ramówki? " data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/611631653-1043926391.jpg" alt="" /><h3>Najgorêtsza prezenterka nowej ramówki? </h3></a></div></li><li ><div class="sArt dbl fr "><a href="http://facet.wp.pl/gid,17900732,kat,1033539,galeriazdjecie.html" title="Takie dziewczyny s¹ najpiêkniejsze. Dlaczego?" data-st-mtype="2"><img width="332" height="398" data-src="http://y.wpimg.pl/i/ivar/G/201510/2015700219-1663457176.jpg" alt="" /><h3>Takie dziewczyny s¹ najpiêkniejsze. Dlaczego?</h3></a></div></li><li ><div class="sArt "><a href="http://kobieta.wp.pl/gid,17900351,img,17900384,kat,26263,title,18-miesieczna-Avaya-najmlodsza-ikona-mody,galeriazdjecie.html" title="Œledzi j¹ 70 tys. internautów. Matka pope³nia b³¹d?" data-st-mtype="2"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/1767672091-772002020.jpeg" alt="" /><h3>Œledzi j¹ 70 tys. internautów. Matka pope³nia b³¹d?</h3></a></div></li><li ><div class="sArt "><a href="http://aleseriale.pl/title,Fear-the-Walking-Dead-najwiekszym-hitem-w-historii-telewizji-kablowej,wid,154387,wiadomosc.html" title="Pad³ rekord! Oto najwiêkszy hit w historii amerykañskiej telewizji. Znasz go?" data-st-mtype="1"><img width="332" height="191" data-src="http://y.wpimg.pl/i/ivar/G/201510/55862525-1210389273.jpg" alt="" /><h3>Pad³ rekord! Oto najwiêkszy hit w historii amerykañskiej telewizji. Znasz go?</h3></a></div></li>			    
+	    </ul>
+	</div>
+		    </div>
+	    	<div class="gmArts">
+	    <div data-st-area="Ciekawostki-gry">
+		<ul><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Farenamody.wp.pl%2F%3Ftrack%3Dpad%3A600%26wpsg" title="Rozdajemy PREZENTY. Zostañ gwiazd¹ wybiegów mody. " data-st-mtype="0"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/S/201507/1437480068_a.jpg" alt="" /><strong>Rozdajemy PREZENTY. Zostañ gwiazd¹ wybiegów mody. </strong><span class="opis">Zostañ m³oda, piêkna modelka i ¿yj pe³ni¹ ¿ycia. </span></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Fempire.wp.pl%2F%3Frev%3Dtest0715.pl" title="Moje imperium jest wiêksze od Twojego!" data-st-mtype="0"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201509/1547569219--282295382.jpg" alt="" /><strong>Moje imperium jest wiêksze od Twojego!</strong><span class="opis">Goodgame Empire - my ju¿ wiemy gdzie rodz¹ siê imperia!</span></a></li><li><a href="http://tropicalla.wp.pl/?rev=wp_wp_sg" title="Tropicalla - prze¿yj na wyspie" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201509/1647410246--330284915.jpg" alt="" /><strong>Tropicalla - prze¿yj na wyspie</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Felvenar.wp.pl%2F%3Frev%3Dtest0715%26wpsg" title="NOWOŒÆ! PoprowadŸ ludzi lub elfów" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201507/2014797112-335278621.jpg" alt="" /><strong>NOWOŒÆ! PoprowadŸ ludzi lub elfów</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fmafiabattle.wp.pl%2F%3Frev%3Dwp_wp_sg" title="NOWOŒÆ! Imperium mafijne w twoich rêkach" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201508/1439461642_a.jpg" alt="" /><strong>NOWOŒÆ! Imperium mafijne w twoich rêkach</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fklondike.wp.pl%2F%3Frev%3Dwp_wp_sg" title="I znowu PREZENT dla nowych graczy!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201508/1440581666_a.jpg" alt="" /><strong>I znowu PREZENT dla nowych graczy!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Fforgeofempires.wp.pl%2F%3Fexternal_param%3Dtest0715" title="PoprowadŸ mnie przez epoki!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201509/606485106-1850466924.jpg" alt="" /><strong>PoprowadŸ mnie przez epoki!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_wpsg&amp;url=http%3A%2F%2Fgryonline.wp.pl%2Fgry.online-358.html%3Fkomandos" title="Ukochana gra brytyjskich komandosów" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201509/19670644--388691467.jpg" alt="" /><strong>Ukochana gra brytyjskich komandosów</strong></a></li><li><a href="http://fragoria.wp.pl/" title="Fragoria - podejmij wyzwanie" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201501/1421060520_a.jpg" alt="" /><strong>Fragoria - podejmij wyzwanie</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Finfinitumgame.com%2F%3Fpartner%3D2f2cca254d9f1ca8%26utm_source%3Dwp_wp_sg" title="NOWOŒÆ! Zajmij prawdziwe miasta w Polsce i chroñ je przed atakami!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201507/1435745844_a.jpg" alt="" /><strong>NOWOŒÆ! Zajmij prawdziwe miasta w Polsce i chroñ je przed atakami!</strong></a></li></ul><ul><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Fbigfarm.wp.pl%2F%3Frev%3Dtest0715.pl" title="Jab³ka kupuje tylko œwie¿e! " data-st-mtype="0"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/G/201508/1486009541--163499159.jpg" alt="" /><strong>Jab³ka kupuje tylko œwie¿e! </strong><span class="opis"></span></a></li><li><a href="http://adv.dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Flegend.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Legend Online - to nie legenda. SprawdŸ sam!" data-st-mtype="0"><img width="158" height="138" data-src="http://y.wpimg.pl/i/ivar/S/201506/1435672115_a.jpg" alt="" /><strong>Legend Online - to nie legenda. SprawdŸ sam!</strong><span class="opis">Twórcy tej gry naprawdê przeœcigaj¹ siê fantazj¹ tworzenia bestii, labiryntów i miast. Oceñ sam!  </span></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fsilenthunter.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Witam na pok³adzie, Kapitanie!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201509/1442324279_a.jpg" alt="" /><strong>Witam na pok³adzie, Kapitanie!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Ffishao.wp.pl%2F%3Frev%3Dwp_wp_sg" title="NOWOŒÆ! £owienie ryb to nie wszystko" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201508/1439460817_a.jpg" alt="" /><strong>NOWOŒÆ! £owienie ryb to nie wszystko</strong></a></li><li><a href="http://adv.dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Frats.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Nawet szczury œwiêtuj¹ lato. No ju¿, sprawdŸ jak!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201508/1439295510_a.jpg" alt="" /><strong>Nawet szczury œwiêtuj¹ lato. No ju¿, sprawdŸ jak!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Ffarmerama.wp.pl%2F%3Faip%3Dtest0715" title="Uwaga na farmie s¹ wœciek³e owce!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201508/302251936-978321634.jpg" alt="" /><strong>Uwaga na farmie s¹ wœciek³e owce!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Frailnation.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Zak³adaj wielkie korporacje i twórz szlaki kolejowe." data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/G/201502/1423821164_a.jpg" alt="" /><strong>Zak³adaj wielkie korporacje i twórz szlaki kolejowe.</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp_gryk&amp;url=http%3A%2F%2Flets-hunt.wp.pl%2F%3Frev%3Dtest0715%26wpsg" title="NOWOŒÆ! Symulator polowania" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201506/1434450079_a.jpg" alt="" /><strong>NOWOŒÆ! Symulator polowania</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fthirtykingdoms.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Zbuduj swoje imperium i przetrwaj!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201412/1419942161_a.jpg" alt="" /><strong>Zbuduj swoje imperium i przetrwaj!</strong></a></li><li><a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Ftribalwars.wp.pl%2F%3Frev%3Dwp_wp_sg" title="Zarz¹dzaj i broñ swego królestwo!" data-st-mtype="0"><img width="158" height="69" data-src="http://y.wpimg.pl/i/ivar/S/201412/1417697939_a.jpg" alt="" /><strong>Zarz¹dzaj i broñ swego królestwo!</strong></a></li></ul>	    </div>
+	</div>
+		</section>	
+	<em><cite><em><em></em></em></cite></em><div id="dynAdv32"><div id="adv32"><script type="text/javascript">NPB("032");</script></div></div>		<section class="stream" data-st-area="Stream">
+			<div class="navCol">
+				<nav>
+					<ul>
+						<li class="popularne"><a href="#" title="Popularne">Popularne</a></li>
+						<li class="sport"><a href="#" title="Sport">Sport</a></li>
+						<li class="finanse"><a href="#" title="Finanse">Finanse</a></li>
+						<li class="motoryzacja"><a href="#" title="Motoryzacja">Motoryzacja</a></li>
+						<li class="rozrywka"><a href="#" title="Rozrywka">Rozrywka</a></li>
+						<li class="kobieta"><a href="#" title="Kobieta">Kobieta</a></li>
+					</ul>
+					 <div class="soc">
+						<a href="https://www.facebook.com/WirtualnaPolska" title="Facebook" class="facebook">facebook</a>
+						<a href="https://twitter.com/wirtualnapolska" title="Twitter" class="twitter">twitter</a>
+						</div>
+				</nav>
+			</div>
+			<div class="advCol">
+				<div class="advSli">
+					<ins><ins><var><em></em></var></ins></ins>					<div id="dynAdv92"><div id="adv92"><script type="text/javascript">NPB("092");</script></div></div></div>
+			</div>
+			<div class="streamCnt">
+				 <!-- popularne -->
+				<div id="streamContainerPopularne" class="listaKrotek" data-lim="5" data-st-area="Stream-popularne"></div>
+				<!-- sport -->
+				<div id="streamContainerSport" class="listaKrotek" data-lim="5" data-st-area="Stream-sport"></div>
+				<!-- finanse -->
+				<div id="streamContainerFinanse" class="listaKrotek" data-lim="5" data-st-area="Stream-finanse"></div>
+				<!-- motoryzacja -->
+				<div id="streamContainerMotoryzacja" class="listaKrotek" data-lim="5" data-st-area="Stream-motoryzacja"></div>
+				<!-- rozrywka -->
+				<div id="streamContainerRozrywka" class="listaKrotek" data-lim="5" data-st-area="Stream-rozrywka"></div>
+				<!-- kobieta -->
+				<div id="streamContainerKobieta" class="listaKrotek" data-lim="5" data-st-area="Stream-kobieta"></div>
+				<div class="loaderContainer"></div>
+			</div>
+		</section>
+			
+
+	<footer id="Stopka" data-st-area="Stopka">
+		<span class="copy">&copy; 1995-2015 Grupa WP</span>&nbsp;&bull;
+		<a href="http://reklama.wp.pl" title="Reklama">Reklama</a>&nbsp;&bull;
+		<a href="http://onas.wp.pl" title="O nas">O nas</a>&nbsp;&bull;
+		<a href="http://onas.wp.pl/poufnosc.html" title="Prywatnoœæ">Prywatnoœæ</a>&nbsp;&bull;
+		<a href="#" class="popularne" title="Popularne">Popularne</a>&nbsp;&bull;
+	</footer>
+	
+			</div>
+		</div>
+
+					<script>if ('object' === typeof WP.abTests) {WP.abTests.TestsRegistry.runAll();}</script>
+			<noscript><style type="text/css">[data-ab-variant="0"]{display:block}</style></noscript>
+			        <script src="/i/ivar/layout/201201/gwp_dynamiclib-src.js?v=250" type="text/javascript" charset="utf-8" async></script>
+<em><em><ins><cite></cite></ins></em></em><div id="dynAdv06"><div id="adv06"><script type="text/javascript">NPB("006");</script></div></div>
+
+<em><em><cite><em></em></cite></em></em><div id="dynAdv08"><div id="adv08"><script type="text/javascript">NPB("008");</script></div></div>
+
+<em><var><var><em></em></var></var></em><div id="dynAdv60"><div id="adv60"><script type="text/javascript">NPB("060");</script></div></div>
+
+<em><var><var><ins></ins></var></var></em><div id="dynAdv61"><div id="adv61"><script type="text/javascript">NPB("061");</script></div></div>
+
+<em><var><var><cite></cite></var></var></em><div id="dynAdv62"><div id="adv62"><script type="text/javascript">NPB("062");</script></div></div>
+
+<em><var><var><var></var></var></var></em><div id="dynAdv63"><div id="adv63"><script type="text/javascript">NPB("063");</script></div></div>
+
+<ins><em><em><em></em></em></em></ins><div id="dynAdv64"><div id="adv64"><script type="text/javascript">NPB("064");</script></div></div>
+
+<ins><em><em><ins></ins></em></em></ins><div id="dynAdv65"><div id="adv65"><script type="text/javascript">NPB("065");</script></div></div>
+
+<ins><em><em><cite></cite></em></em></ins><div id="dynAdv66"><div id="adv66"><script type="text/javascript">NPB("066");</script></div></div>
+
+<ins><em><var><cite></cite></var></em></ins><div id="dynAdv78"><div id="adv78"><script type="text/javascript">NPB("078");</script></div></div>
+
+<ins><em><var><var></var></var></em></ins><div id="dynAdv79"><div id="adv79"><script type="text/javascript">NPB("079");</script></div></div>
+
+<ins><ins><em><ins></ins></em></ins></ins><div id="dynAdv81"><div id="adv81"><script type="text/javascript">NPB("081");</script></div></div>
+
+<ins><ins><em><cite></cite></em></ins></ins><div id="dynAdv82"><div id="adv82"><script type="text/javascript">NPB("082");</script></div></div>
+
+<ins><ins><em><var></var></em></ins></ins><div id="dynAdv83"><div id="adv83"><script type="text/javascript">NPB("083");</script></div></div>
+
+<ins><ins><ins><em></em></ins></ins></ins><div id="dynAdv84"><div id="adv84"><script type="text/javascript">NPB("084");</script></div></div>
+
+<ins><ins><ins><ins></ins></ins></ins></ins><div id="dynAdv85"><div id="adv85"><script type="text/javascript">NPB("085");</script></div></div>
+
+<ins><ins><ins><cite></cite></ins></ins></ins><div id="dynAdv86"><div id="adv86"><script type="text/javascript">NPB("086");</script></div></div>
+
+<ins><ins><ins><var></var></ins></ins></ins><div id="dynAdv87"><div id="adv87"><script type="text/javascript">NPB("087");</script></div></div>
+
+<ins><cite><em><ins></ins></em></cite></ins><div id="dynAdv97"><div id="adv97"><script type="text/javascript">NPB("097");</script></div></div>
+
+<ins><ins><cite><em></em></cite></ins></ins><div id="dynAdv88"><div id="adv88"><script type="text/javascript">NPB("088");</script></div></div>
+
+<ins><ins><cite><cite></cite></cite></ins></ins><div id="dynAdv90"><div id="adv90"><script type="text/javascript">NPB("090");</script></div></div>
+
+<ins><ins><cite><var></var></cite></ins></ins><div id="dynAdv91"><div id="adv91"><script type="text/javascript">NPB("091");</script></div></div>
+
+<script type="text/javascript">
+	window.placeAllAdv();
+</script>
+
+	</body>
+</html>
